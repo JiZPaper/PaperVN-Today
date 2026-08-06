@@ -1,21 +1,274 @@
 # PaperVN-Today
 
-PaperVN的Today编辑内容仓库。App通过GitHub Raw读取`manifest.json`，再加载其指向的每日内容文件。
+PaperVN 的 Today 编辑内容仓库。App 会从 GitHub Raw 获取 `manifest.json`，读取 GitHub 响应头中的联网时间，并按 `Asia/Shanghai` 转换为当天日期，然后加载对应的 `feeds/YYYY-MM-DD.json`。
 
-## 目录
+## 目录结构
 
-- `manifest.json`：当前已发布内容的入口。
-- `feeds/YYYY-MM-DD.json`：按日期归档的Today内容。
-- `images/YYYY-MM-DD/`：当日卡片使用的图片。
+```text
+manifest.json
+feeds/
+  2026-08-07.json
+  2026-08-08.json
+images/
+  2026-08-07/
+    v65076.jpg
+    v4.jpg
+  2026-08-08/
+    ...
+```
 
-## 发布
+- `manifest.json`：Today 服务入口和离线回退入口。
+- `feeds/YYYY-MM-DD.json`：某一天的全部 Today 卡片。
+- `images/YYYY-MM-DD/`：该日期卡片使用的图片。
 
-1. 新建每日内容和图片。
-2. 校验JSON与图片尺寸。
-3. 将`manifest.json`的`currentFeed`改为新文件路径。
-4. 提交并推送到`main`分支。
+可以提前准备未来日期的内容。不同日期使用不同的 JSON 和图片目录，不需要覆盖旧日期的文件。
 
-App的固定入口：
+## 日期和回退
+
+正常联网时，App 会读取联网日期对应的文件。例如联网日期是 `2026-08-08`，App 会读取：
+
+```text
+feeds/2026-08-08.json
+```
+
+如果联网正常但当天文件不存在，App 会显示“Today不可用”，不会把其他日期的内容冒充成当天内容。
+
+如果网络完全不可用，App 会使用本地缓存；没有可用缓存时才显示网络错误界面。
+
+## manifest.json
+
+保持以下格式即可：
+
+```json
+{
+  "schemaVersion": 1,
+  "currentFeed": "feeds/2026-08-07.json"
+}
+```
+
+字段说明：
+
+- `schemaVersion`：当前必须是 `1`。
+- `currentFeed`：网络日期无法获取时使用的回退文件。建议指向最近一个已经完整发布的 Today 文件。
+
+联网正常时，`currentFeed` 不决定当天内容；当天内容由联网日期决定。
+
+## 每日 Today 文件
+
+文件名必须是：
+
+```text
+feeds/YYYY-MM-DD.json
+```
+
+文件中的 `date` 必须与文件名一致：
+
+```json
+{
+  "schemaVersion": 1,
+  "date": "2026-08-07",
+  "stories": []
+}
+```
+
+`stories` 按页面从上到下排列。每个元素就是一张 Today 卡片。
+
+## 卡片字段
+
+完整示例：
+
+```json
+{
+  "id": "2026-08-07-v60331",
+  "groupID": "cabbage-2026-08-07",
+  "visualNovelID": "v60331",
+  "accessibilityTitle": {
+    "default": "とける風花とシロうさぎ",
+    "en": "Tokeru Fuuka to Shiro Usagi"
+  },
+  "eyebrow": {
+    "default": "即将发行",
+    "zh-Hant": "即將發行",
+    "ja": "発売予定",
+    "ko": "출시 예정",
+    "en": "Coming Soon"
+  },
+  "description": {
+    "default": "卷心菜社的最新作品。",
+    "zh-Hant": "卷心菜社的最新作品。",
+    "ja": "きゃべつそふとの最新作。",
+    "ko": "캬베츠 소프트의 최신 작품입니다.",
+    "en": "The latest title from Cabbage Soft."
+  },
+  "releaseDate": {
+    "default": "2026年8月16日",
+    "zh-Hant": "2026年8月16日",
+    "ja": "2026年8月16日",
+    "ko": "2026년 8월 16일",
+    "en": "August 16, 2026"
+  },
+  "image": {
+    "path": "images/2026-08-07/v60331.jpg",
+    "width": 1200,
+    "height": 849
+  },
+  "related": []
+}
+```
+
+字段说明：
+
+- `id`：卡片唯一 ID。同一天内不要重复，通常可以使用 `日期-vndbID`。
+- `groupID`：可选。上下相邻且属于同一系列的卡片使用相同值，App 会用一个灰色大外框把它们包在一起。不需要分组时省略此字段。
+- `visualNovelID`：VNDB 作品 ID，例如 `v60331`。点击卡片会进入这个作品的详情页，App 也会自动显示“相关作品”。
+- `accessibilityTitle`：无障碍标题，也作为作品名称未加载完成时的备用名称。支持多语言对象。
+- `eyebrow`：卡片左上角的小标题，例如“最近发行”“你知道吗”“即将发行”。支持多语言对象。
+- `description`：卡片底部的主要描述文字。支持多语言对象。
+- `releaseDate`：可选。填写后会显示在描述下方，例如 `2026年8月16日`。支持多语言对象。
+- `image`：卡片封面图片及其实际像素尺寸。
+- `related`：相关作品和相关角色。没有额外关联时必须写空数组 `[]`。
+
+### 多语言文本
+
+Today 会按照用户当前的 App 界面语言选择文本。支持以下语言键：
+
+- `zh-Hans`：简体中文
+- `zh-Hant`：繁体中文
+- `ja`：日语
+- `ko`：韩语
+- `en`：英语
+
+文本既可以写成旧格式的普通字符串，也可以写成多语言对象。今后推荐使用多语言对象：
+
+```json
+"eyebrow": {
+  "default": "最近发行",
+  "zh-Hant": "最近發行",
+  "ja": "最近発売",
+  "ko": "최근 출시",
+  "en": "New Release"
+}
+```
+
+`default` 是没有对应翻译时的回退文本，通常填写简体中文或原文。App 会优先读取当前界面语言；没有该语言时使用 `default`。旧的纯字符串写法仍然有效。
+
+`accessibilityTitle`、`eyebrow`、`description`、`releaseDate` 和关联内容的 `title` 都支持这种格式。`related.original` 保持原文字符串即可，不需要翻译。
+
+### image 图片
+
+图片路径相对于仓库根目录：
+
+```text
+images/2026-08-07/v60331.jpg
+```
+
+`width` 和 `height` 必须填写图片的实际像素尺寸，不是 App 中显示的尺寸。建议使用 JPG 或 PNG，并确保图片已经提交到对应日期目录。
+
+### related 关联内容
+
+关联作品：
+
+```json
+{
+  "type": "visualNovel",
+  "id": "v4",
+  "title": {
+    "default": "CLANNAD",
+    "ja": "CLANNAD",
+    "en": "CLANNAD"
+  },
+  "original": null
+}
+```
+
+关联角色：
+
+```json
+{
+  "type": "character",
+  "id": "c15850",
+  "title": {
+    "default": "宫泽有纪宁",
+    "zh-Hant": "宮澤有紀寧",
+    "ja": "宮沢有紀寧",
+    "ko": "미야자와 유키네",
+    "en": "Yukine Miyazawa"
+  },
+  "original": "宮沢 有紀寧"
+}
+```
+
+- `type` 只能是 `visualNovel` 或 `character`。
+- `id` 使用 VNDB 的作品或角色 ID。
+- `title` 是备用名称。App 会按照用户的语言偏好重新获取和显示名称。
+- `original` 用于填写原文名称，没有时可以写 `null` 或省略。
+
+如果 `related` 中没有当前卡片的 `visualNovelID`，App 会自动添加一行“相关作品”，所以普通作品卡片可以直接使用 `"related": []`。
+
+## 关联卡片示例
+
+下面两张卡片使用相同的 `groupID`，并且在 JSON 中连续出现，因此会显示在同一个灰色大外框中：
+
+```json
+{
+  "id": "2026-08-07-v60331",
+  "groupID": "cabbage-2026-08-07",
+  "visualNovelID": "v60331",
+  "accessibilityTitle": "とける風花とシロうさぎ",
+  "eyebrow": "即将发行",
+  "description": "卷心菜社的最新作品。",
+  "releaseDate": "2026年8月16日",
+  "image": {
+    "path": "images/2026-08-07/v60331.jpg",
+    "width": 1200,
+    "height": 849
+  },
+  "related": []
+},
+{
+  "id": "2026-08-07-cabbage-more",
+  "groupID": "cabbage-2026-08-07",
+  "visualNovelID": "v60331",
+  "accessibilityTitle": "卷心菜社新作品特集",
+  "eyebrow": "更多来自卷心菜社",
+  "description": "那可不是……梦。",
+  "image": {
+    "path": "images/2026-08-07/v60331.jpg",
+    "width": 1200,
+    "height": 849
+  },
+  "related": []
+}
+```
+
+## 如何写自己的 Today
+
+1. 在 `images/YYYY-MM-DD/` 放入当天卡片图片。
+2. 复制一个已有的 `feeds/YYYY-MM-DD.json`，改成新的日期。
+3. 按顺序增删 `stories`，修改每张卡片的 `eyebrow`、`description`、`releaseDate` 和 `visualNovelID`。
+4. 对 `eyebrow`、`description` 等文本填写多语言对象；没有翻译的语言可以省略，App 会回退到 `default`。
+5. 如果两张上下相邻的卡片属于同一系列，给它们填写相同的 `groupID`。
+6. 确认 JSON 和图片路径正确。
+7. 提交并推送到 GitHub 的 `main` 分支。
+
+本地可以用 `jq` 检查 JSON：
+
+```bash
+jq empty manifest.json feeds/2026-08-07.json
+```
+
+## 推荐游戏
+
+Today 卡片本身就是编辑推荐游戏的方式。要推荐一部作品，创建一张卡片并填写：
+
+- `visualNovelID`：要推荐的 VNDB 作品 ID。
+- `image`：该作品封面。
+- `eyebrow`：推荐角度，例如“编辑推荐”“最近发行”，建议写成多语言对象。
+- `description`：推荐理由，建议为每种 App 界面语言提供翻译。
+
+当前页面下方独立的“为你推荐”区域是 PaperVN 根据用户偏好生成的个性化推荐，不读取这个仓库的 JSON。也就是说，编辑者可以通过 Today 卡片推荐游戏，但不能用当前 JSON 直接控制下面那组个性化列表。
+
+## 固定入口
 
 ```text
 https://raw.githubusercontent.com/JiZPaper/PaperVN-Today/main/manifest.json
