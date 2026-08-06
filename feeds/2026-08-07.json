@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-07",
+  "stories": [
+    {
+      "id": "2026-08-07-v65076",
+      "visualNovelID": "v65076",
+      "accessibilityTitle": "完蛋！我被男同学包围了",
+      "eyebrow": "最近发行",
+      "description": "作者赔钱也要上架报复社会。",
+      "image": {
+        "path": "images/2026-08-07/v65076.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-07-v4",
+      "visualNovelID": "v4",
+      "accessibilityTitle": "CLANNAD",
+      "eyebrow": "你知道吗",
+      "description": "今天是宫泽有纪宁的生日",
+      "image": {
+        "path": "images/2026-08-07/v4.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": [
+        {
+          "type": "visualNovel",
+          "id": "v4",
+          "title": "CLANNAD"
+        },
+        {
+          "type": "character",
+          "id": "c15850",
+          "title": "宫泽有纪宁",
+          "original": "宮沢 有紀寧"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-v60331",
+      "visualNovelID": "v60331",
+      "accessibilityTitle": "とける風花とシロうさぎ",
+      "eyebrow": "即将发行",
+      "description": "卷心菜社最新力作。",
+      "releaseDate": "2026年8月16日",
+      "image": {
+        "path": "images/2026-08-07/v60331.jpg",
+        "width": 1200,
+        "height": 849
+      },
+      "related": []
+    }
+  ]
+}
