@@ -80,7 +80,7 @@ feeds/YYYY-MM-DD.json
 ```json
 {
   "id": "2026-08-07-v60331",
-  "groupID": "cabbage-2026-08-07",
+  "groupID": "shiratamaco-2026-08-07",
   "visualNovelID": "v60331",
   "accessibilityTitle": {
     "default": "とける風花とシロうさぎ",
@@ -94,11 +94,11 @@ feeds/YYYY-MM-DD.json
     "en": "Coming Soon"
   },
   "description": {
-    "default": "卷心菜社的最新作品。",
-    "zh-Hant": "卷心菜社的最新作品。",
-    "ja": "きゃべつそふとの最新作。",
-    "ko": "캬베츠 소프트의 최신 작품입니다.",
-    "en": "The latest title from Cabbage Soft."
+    "default": "白玉的最新作品。",
+    "zh-Hant": "白玉的最新作品。",
+    "ja": "しらたまこの最新作。",
+    "ko": "시라타마코의 최신 작품입니다.",
+    "en": "The latest title from Shiratamaco."
   },
   "releaseDate": {
     "default": "2026年8月16日",
@@ -212,11 +212,11 @@ images/2026-08-07/v60331.jpg
 ```json
 {
   "id": "2026-08-07-v60331",
-  "groupID": "cabbage-2026-08-07",
+  "groupID": "shiratamaco-2026-08-07",
   "visualNovelID": "v60331",
   "accessibilityTitle": "とける風花とシロうさぎ",
   "eyebrow": "即将发行",
-  "description": "卷心菜社的最新作品。",
+  "description": "白玉的最新作品。",
   "releaseDate": "2026年8月16日",
   "image": {
     "path": "images/2026-08-07/v60331.jpg",
@@ -226,16 +226,16 @@ images/2026-08-07/v60331.jpg
   "related": []
 },
 {
-  "id": "2026-08-07-cabbage-more",
-  "groupID": "cabbage-2026-08-07",
-  "visualNovelID": "v60331",
-  "accessibilityTitle": "卷心菜社新作品特集",
+  "id": "2026-08-07-v28297",
+  "groupID": "shiratamaco-2026-08-07",
+  "visualNovelID": "v28297",
+  "accessibilityTitle": "星空列车与白的旅行",
   "eyebrow": "更多来自卷心菜社",
   "description": "那可不是……梦。",
   "image": {
-    "path": "images/2026-08-07/v60331.jpg",
-    "width": 1200,
-    "height": 849
+    "path": "images/2026-08-07/v28297.jpg",
+    "width": 383,
+    "height": 512
   },
   "related": []
 }

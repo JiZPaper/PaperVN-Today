@@ -90,7 +90,7 @@
     },
     {
       "id": "2026-08-07-v60331",
-      "groupID": "cabbage-2026-08-07",
+      "groupID": "shiratamaco-2026-08-07",
       "visualNovelID": "v60331",
       "accessibilityTitle": {
         "default": "とける風花とシロうさぎ",
@@ -107,11 +107,11 @@
         "en": "Coming Soon"
       },
       "description": {
-        "default": "卷心菜社的最新作品。",
-        "zh-Hant": "卷心菜社的最新作品。",
-        "ja": "きゃべつそふとの最新作。",
-        "ko": "캬베츠 소프트의 최신 작품입니다.",
-        "en": "The latest title from Cabbage Soft."
+        "default": "白玉的最新作品。",
+        "zh-Hant": "白玉的最新作品。",
+        "ja": "しらたまこの最新作。",
+        "ko": "시라타마코의 최신 작품입니다.",
+        "en": "The latest title from Shiratamaco."
       },
       "releaseDate": {
         "default": "2026年8月16日",
@@ -128,15 +128,15 @@
       "related": []
     },
     {
-      "id": "2026-08-07-cabbage-more",
-      "groupID": "cabbage-2026-08-07",
-      "visualNovelID": "v60331",
+      "id": "2026-08-07-v28297",
+      "groupID": "shiratamaco-2026-08-07",
+      "visualNovelID": "v28297",
       "accessibilityTitle": {
-        "default": "卷心菜社新作品特集",
-        "zh-Hant": "卷心菜社新作品特集",
-        "ja": "きゃべつそふと新作特集",
-        "ko": "캬베츠 소프트 신작 특집",
-        "en": "More from Cabbage Soft"
+        "default": "星空列车与白的旅行",
+        "zh-Hant": "星空列車與白的旅行",
+        "ja": "星空鉄道とシロの旅",
+        "ko": "별하늘 철도와 시로의 여행",
+        "en": "Hoshizora Tetsudou to Shiro no Tabi"
       },
       "eyebrow": {
         "default": "更多来自卷心菜社",
@@ -153,9 +153,9 @@
         "en": "That wasn't... a dream."
       },
       "image": {
-        "path": "images/2026-08-07/v60331.jpg",
-        "width": 1200,
-        "height": 849
+        "path": "images/2026-08-07/v28297.jpg",
+        "width": 383,
+        "height": 512
       },
       "related": []
     }
