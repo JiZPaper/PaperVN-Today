@@ -74,8 +74,8 @@
       "related": []
     },
     {
-      "id": "2026-08-07-v4",
-      "visualNovelID": "v4",
+      "id": "2026-08-08-v51023",
+      "visualNovelID": "v51023",
       "accessibilityTitle": {
         "default": "CLANNAD",
         "zh-Hant": "CLANNAD",
@@ -84,49 +84,55 @@
         "en": "CLANNAD"
       },
       "eyebrow": {
-        "default": "你知道吗",
-        "zh-Hant": "你知道嗎",
-        "ja": "ご存じですか",
-        "ko": "알고 계셨나요",
-        "en": "Did You Know?"
+        "default": "短篇作品",
+        "zh-Hant": "",
+        "ja": "",
+        "ko": "",
+        "en": ""
       },
       "description": {
-        "default": "今天是宫泽有纪宁的生日。",
-        "zh-Hant": "今天是宮澤有紀寧的生日。",
-        "ja": "今日は宮沢有紀寧の誕生日です。",
-        "ko": "오늘은 미야자와 유키네의 생일입니다.",
-        "en": "Today is Yukine Miyazawa's birthday."
+        "default": "我必须活在白天的世界里吗？",
+        "zh-Hant": "",
+        "ja": "",
+        "ko": "",
+        "en": ""
       },
       "image": {
-        "path": "images/2026-08-07/v4.jpg",
+        "path": "",
         "width": 600,
         "height": 900
       },
       "related": [
         {
           "type": "visualNovel",
-          "id": "v4",
+          "id": "v51023",
           "title": {
-            "default": "CLANNAD",
-            "zh-Hant": "CLANNAD",
-            "ja": "CLANNAD",
-            "ko": "CLANNAD",
-            "en": "CLANNAD"
+            "default": "无月之月",
+            "zh-Hant": "無月之月",
+            "ja": "ムーンレスムーン",
+            "ko": "Moonless Moon",
+            "en": "Moonless Moon"
           }
-        },
-        {
-          "type": "character",
-          "id": "c15850",
-          "title": {
-            "default": "宫泽有纪宁",
-            "zh-Hant": "宮澤有紀寧",
-            "ja": "宮沢有紀寧",
-            "ko": "미야자와 유키네",
-            "en": "Yukine Miyazawa"
-          },
-          "original": "宮沢 有紀寧"
         }
       ]
+"introduction": {
+  "schemaVersion": 1,
+  "blocks": [
+    {
+      "style": "primary",
+      "markdown": {
+        "default": "**闭眼穿梭于多个世界的少女之旅。**",
+        "ja": ""
+      }
+    },
+    {
+      "style": "secondary",
+      "markdown": {
+        "default": "无配音短篇作品。发售于2024年的今天。\n\n*夜幕降临后，是一个别样的世界——今晚我们会留在何处？*"
+      }
+    }
+  ]
+}	
     },
     {
       "id": "2026-08-07-v60331",
