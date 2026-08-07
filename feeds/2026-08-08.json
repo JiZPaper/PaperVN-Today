@@ -7,9 +7,9 @@
       "visualNovelID": "v65619",
       "accessibilityTitle": {
         "default": "尤里与爱丽丝",
-        "zh-Hant": "",
+        "zh-Hant": "尤里與愛麗絲",
         "ja": "ユリアリス",
-        "ko": "",
+        "ko": "유리아리스",
         "en": "Yuriarisu"
       },
       "eyebrow": {
@@ -22,9 +22,9 @@
       "description": {
         "default": "百合克苏鲁是什么东西？",
         "zh-Hant": "百合克蘇魯是什麼東西？",
-        "ja": "",
-        "ko": "",
-        "en": ""
+        "ja": "百合クトゥルフって何？",
+        "ko": "백합 크툴루가 대체 뭐죠?",
+        "en": "What is yuri Cthulhu?"
       },
       "releaseDate": {
         "default": "2026年8月16日（C108）",
@@ -44,8 +44,8 @@
             "markdown": {
               "default": "尤里的双胞胎妹妹爱丽丝去世了。\n尤里无法接受这一悲剧。\n有一天，她做了一个梦。\n当她恢复意识时，尤里发现自己躺在一间昏暗房间的床上。\n能够与本应死去的爱丽丝重逢，尤里欣喜若狂。\n然而，爱丽丝却与以往有所不同——她似乎比平时更加魅惑、更加神秘。\n出于对再次失去爱丽丝的恐惧，尤里选择与她度过一段宛如蜜月般的甜蜜时光。\n殊不知，她只不过是被邪神玩弄于股掌之中……\n",
               "zh-Hant": "尤里的雙胞胎妹妹愛麗絲去世了。\n尤里無法接受這一悲劇。\n有一天，她做了一個夢。\n當她恢復意識時，尤里發現自己躺在一間昏暗房間的床上。\n能夠與本應死去的愛麗絲重逢，尤里欣喜若狂。\n然而，愛麗絲卻與以往有所不同——她似乎比平時更加魅惑、更加神秘。\n出於對再次失去愛麗絲的恐懼，尤里選擇與她度過一段宛如蜜月般的甜蜜時光。\n殊不知，她只不過是被邪神玩弄於股掌之中……\n",
-              "ja": "",
-              "ko": "",
+              "ja": "ユリの双子の妹、アリスは亡くなった。\nユリはその悲劇を受け入れられなかった。\nある日、彼女は夢を見た。\n意識を取り戻したとき、ユリは暗い部屋のベッドに横たわっていた。\n本来なら死んでいるはずのアリスと再会できて、ユリは大喜びした。\nしかし、アリスは以前とはどこか違っていた――いつもより魅惑的で、神秘的だった。\n再びアリスを失うことを恐れたユリは、彼女と新婚旅行のように甘い時間を過ごすことを選んだ。\nそれが、邪神の掌で弄ばれているだけだとは知らずに……\n",
+              "ko": "유리의 쌍둥이 여동생 앨리스는 세상을 떠났다.\n유리는 그 비극을 받아들일 수 없었다.\n어느 날, 그녀는 꿈을 꾸었다.\n정신을 차렸을 때 유리는 어두운 방의 침대에 누워 있었다.\n죽었어야 할 앨리스와 재회한 유리는 기쁨에 휩싸였다.\n하지만 앨리스는 예전과 달랐다. 평소보다 더 매혹적이고 신비로워 보였다.\n다시 앨리스를 잃을까 두려웠던 유리는 그녀와 신혼여행처럼 달콤한 시간을 보내기로 했다.\n그저 사악한 신의 손바닥 위에서 놀아나고 있을 뿐이라는 사실도 모른 채……\n",
               "en": "Arisu, Yuri's twin younger sister, died.\nYuri was unable to accept that tragedy.\nOne day, she had a dream.\nWhen she came to, Yuri found herself lying on a bed in a dark room.\nYuri was overjoyed to be reunited with Arisu, who should have been dead.\nHowever, there was something different about Arisu—she seemed more alluring and mysterious than usual.\nFearing that she might lose Arisu again, Yuri chose to spend a sweet honeymoon-like time with her.\nUnaware that she was merely being toyed with in the palm of a wicked god's hand...\n"
             }
           },
@@ -53,9 +53,9 @@
             "style": "primary",
             "markdown": {
               "default": "**“我回来了，尤里酱。”**",
-              "zh-Hant": "",
-              "ja": "",
-              "ko": "",
+              "zh-Hant": "**「我回來了，尤里醬。」**",
+              "ja": "**「ただいま、ユリちゃん。」**",
+              "ko": "**「다녀왔어, 유리짱.」**",
               "en": "**\"I'm home, Yuri-chan.\"**"
             }
           },
@@ -63,12 +63,12 @@
             "style": "secondary",
             "markdown": {
               "default": "\n\nとわソフト第一款发行视觉小说——《尤里与爱丽丝》",
-              "zh-Hant": "",
-              "ja": "",
-              "ko": "",
-              "en": "Arisu, Yuri's twin younger sister, died.\nYuri was unable to accept that tragedy.\nOne day, she had a dream.\nWhen she came to, Yuri found herself lying on a bed in a dark room.\nYuri was overjoyed to be reunited with Arisu, who should have been dead.\nHowever, there was something different about Arisu—she seemed more alluring and mysterious than usual.\nFearing that she might lose Arisu again, Yuri chose to spend a sweet honeymoon-like time with her.\nUnaware that she was merely being toyed with in the palm of a wicked god's hand...\n"
+              "zh-Hant": "\n\nとわソフト第一款發行視覺小說——《尤里與愛麗絲》",
+              "ja": "\n\nとわソフト初のビジュアルノベル――『ユリアリス』",
+              "ko": "\n\nとわソフト 최초의 비주얼 노벨——《유리아리스》",
+              "en": "\n\nTowa Soft's first visual novel—Yuriarisu."
             }
-          },
+          }
         ]
       },
       "related": []
@@ -85,41 +85,43 @@
       },
       "eyebrow": {
         "default": "短篇作品",
-        "zh-Hant": "",
-        "ja": "",
-        "ko": "",
-        "en": ""
+        "zh-Hant": "短篇作品",
+        "ja": "短編作品",
+        "ko": "단편 작품",
+        "en": "Short Story"
       },
       "description": {
         "default": "我必须活在白天的世界里吗？",
-        "zh-Hant": "",
-        "ja": "",
-        "ko": "",
-        "en": ""
+        "zh-Hant": "我必須活在白天的世界裡嗎？",
+        "ja": "私は昼の世界で生きなければならないの？",
+        "ko": "나는 낮의 세계에서 살아야 하는 걸까?",
+        "en": "Do I have to live in the world of daylight?"
       },
-      "image": {
-        "path": "",
-        "width": 600,
-        "height": 900
+      "introduction": {
+        "schemaVersion": 1,
+        "blocks": [
+          {
+            "style": "primary",
+            "markdown": {
+              "default": "**闭眼穿梭于多个世界的少女之旅。**",
+              "zh-Hant": "**閉眼穿梭於多個世界的少女之旅。**",
+              "ja": "**目を閉じて幾つもの世界を巡る少女の旅。**",
+              "ko": "**눈을 감고 여러 세계를 오가는 소녀의 여행.**",
+              "en": "**A girl's journey through multiple worlds with her eyes closed.**"
+            }
+          },
+          {
+            "style": "secondary",
+            "markdown": {
+              "default": "无配音短篇作品。发售于2024年的今天。\n\n*夜幕降临后，是一个别样的世界——今晚我们会留在何处？*",
+              "zh-Hant": "無配音短篇作品。於2024年的今天發售。\n\n*夜幕降臨後，是一個別樣的世界——今晚我們會留在何處？*",
+              "ja": "ボイスなしの短編作品。2024年の今日発売。\n\n*夜の帳が下りた後は、いつもと違う世界――今夜はどこに留まろう？*",
+              "ko": "음성이 없는 단편 작품. 2024년 오늘 발매.\n\n*밤이 내린 뒤에는 또 다른 세계가 펼쳐진다――오늘 밤은 어디에 머무를까?*",
+              "en": "A short, unvoiced story. Released on this day in 2024.\n\n*After night falls, another world awaits—where will we stay tonight?*"
+            }
+          }
+        ]
       },
-"introduction": {
-  "schemaVersion": 1,
-  "blocks": [
-    {
-      "style": "primary",
-      "markdown": {
-        "default": "**闭眼穿梭于多个世界的少女之旅。**",
-        "ja": ""
-      }
-    },
-    {
-      "style": "secondary",
-      "markdown": {
-        "default": "无配音短篇作品。发售于2024年的今天。\n\n*夜幕降临后，是一个别样的世界——今晚我们会留在何处？*"
-      }
-    }
-  ]
-},
       "related": [
         {
           "type": "visualNovel",
@@ -147,22 +149,17 @@
       },
       "eyebrow": {
         "default": "最近发行",
-        "zh-Hant": "",
-        "ja": "",
-        "ko": "",
-        "en": ""
+        "zh-Hant": "最近發行",
+        "ja": "最近発売",
+        "ko": "최근 출시",
+        "en": "Recently Released"
       },
       "description": {
         "default": "Key的最新作品。",
-        "zh-Hant": "",
-        "ja": "",
-        "ko": "",
-        "en": ""
-      },
-      "image": {
-        "path": "",
-        "width": 1200,
-        "height": 849
+        "zh-Hant": "Key的最新作品。",
+        "ja": "Keyの最新作。",
+        "ko": "Key의 최신 작품.",
+        "en": "Key's latest work."
       },
       "related": []
     },
@@ -174,7 +171,7 @@
         "default": "星之终途",
         "zh-Hant": "星之終途",
         "ja": "終のステラ",
-        "ko": "",
+        "ko": "끝의 스텔라",
         "en": "Stella of The End"
       },
       "eyebrow": {
@@ -186,15 +183,10 @@
       },
       "description": {
         "default": "将重要的东西……送往这颗星球的未来",
-        "zh-Hant": "",
+        "zh-Hant": "將重要的東西……送往這顆星球的未來",
         "ja": "大切なものを……この星の未来に",
-        "ko": "",
-        "en": ""
-      },
-      "image": {
-        "path": "",
-        "width": 383,
-        "height": 512
+        "ko": "소중한 것을……이 별의 미래로",
+        "en": "Send what matters most... to the future of this planet."
       },
       "related": []
     }
