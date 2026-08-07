@@ -182,11 +182,11 @@
         "en": "More from Key"
       },
       "description": {
-        "default": "将重要的东西……送往这颗星球的未来",
-        "zh-Hant": "將重要的東西……送往這顆星球的未來",
-        "ja": "大切なものを……この星の未来に",
-        "ko": "소중한 것을……이 별의 미래로",
-        "en": "Send what matters most... to the future of this planet."
+        "default": "将重要的东西\n……送往这颗星球的未来",
+        "zh-Hant": "將重要的東西\n……送往這顆星球的未來",
+        "ja": "大切なものを\n……この星の未来に",
+        "ko": "소중한 것을\n……이 별의 미래로",
+        "en": "Send what matters most\n...to the future of this planet."
       },
       "related": []
     }
