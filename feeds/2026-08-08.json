@@ -102,19 +102,6 @@
         "width": 600,
         "height": 900
       },
-      "related": [
-        {
-          "type": "visualNovel",
-          "id": "v51023",
-          "title": {
-            "default": "无月之月",
-            "zh-Hant": "無月之月",
-            "ja": "ムーンレスムーン",
-            "ko": "Moonless Moon",
-            "en": "Moonless Moon"
-          }
-        }
-      ]
 "introduction": {
   "schemaVersion": 1,
   "blocks": [
@@ -132,73 +119,80 @@
       }
     }
   ]
+},
+      "related": [
+        {
+          "type": "visualNovel",
+          "id": "v51023",
+          "title": {
+            "default": "无月之月",
+            "zh-Hant": "無月之月",
+            "ja": "ムーンレスムーン",
+            "ko": "Moonless Moon",
+            "en": "Moonless Moon"
+          }
+        }
+      ]
     },
     {
-      "id": "2026-08-07-v60331",
-      "groupID": "shiratamaco-2026-08-07",
-      "visualNovelID": "v60331",
+      "id": "2026-08-08-v47937",
+      "groupID": "key-2026-08-08",
+      "visualNovelID": "v47937",
       "accessibilityTitle": {
-        "default": "とける風花とシロうさぎ",
-        "zh-Hant": "とける風花とシロうさぎ",
-        "ja": "とける風花とシロうさぎ",
-        "ko": "とける風花とシロうさぎ",
-        "en": "Tokeru Fuuka to Shiro Usagi"
+        "default": "anemoi",
+        "zh-Hant": "anemoi",
+        "ja": "anemoi",
+        "ko": "anemoi",
+        "en": "anemoi"
       },
       "eyebrow": {
-        "default": "即将发行",
-        "zh-Hant": "即將發行",
-        "ja": "発売予定",
-        "ko": "출시 예정",
-        "en": "Coming Soon"
+        "default": "最近发行",
+        "zh-Hant": "",
+        "ja": "",
+        "ko": "",
+        "en": ""
       },
       "description": {
-        "default": "白玉的最新作品。",
-        "zh-Hant": "白玉的最新作品。",
-        "ja": "しらたまこの最新作。",
-        "ko": "시라타마코의 최신 작품입니다.",
-        "en": "The latest title from Shiratamaco."
-      },
-      "releaseDate": {
-        "default": "2026年8月16日",
-        "zh-Hant": "2026年8月16日",
-        "ja": "2026年8月16日",
-        "ko": "2026년 8월 16일",
-        "en": "August 16, 2026"
+        "default": "Key的最新作品。",
+        "zh-Hant": "",
+        "ja": "",
+        "ko": "",
+        "en": ""
       },
       "image": {
-        "path": "images/2026-08-07/v60331.jpg",
+        "path": "",
         "width": 1200,
         "height": 849
       },
       "related": []
     },
     {
-      "id": "2026-08-07-v28297",
-      "groupID": "shiratamaco-2026-08-07",
-      "visualNovelID": "v28297",
+      "id": "2026-08-08-v29443",
+      "groupID": "key-2026-08-08",
+      "visualNovelID": "v29443",
       "accessibilityTitle": {
-        "default": "星空列车与白的旅行",
-        "zh-Hant": "星空列車與白的旅行",
-        "ja": "星空鉄道とシロの旅",
-        "ko": "별하늘 철도와 시로의 여행",
-        "en": "Hoshizora Tetsudou to Shiro no Tabi"
+        "default": "星之终途",
+        "zh-Hant": "星之終途",
+        "ja": "終のステラ",
+        "ko": "",
+        "en": "Stella of The End"
       },
       "eyebrow": {
-        "default": "更多来自白玉",
-        "zh-Hant": "更多來自白玉",
-        "ja": "しらたまこからもっと",
-        "ko": "시라타마코의 소프트의 더 많은 작품",
-        "en": "More from Shiratamaco"
+        "default": "更多来自Key",
+        "zh-Hant": "更多來自Key",
+        "ja": "Keyからもっと",
+        "ko": "Key의 소프트의 더 많은 작품",
+        "en": "More from Key"
       },
       "description": {
-        "default": "那可不是……梦。",
-        "zh-Hant": "那可不是……夢。",
-        "ja": "あれは……夢じゃない。",
-        "ko": "그건……꿈이 아니었어.",
-        "en": "That wasn't... a dream."
+        "default": "将重要的东西……送往这颗星球的未来",
+        "zh-Hant": "",
+        "ja": "大切なものを……この星の未来に",
+        "ko": "",
+        "en": ""
       },
       "image": {
-        "path": "images/2026-08-07/v28297.jpg",
+        "path": "",
         "width": 383,
         "height": 512
       },
