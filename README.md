@@ -179,7 +179,7 @@ images/2026-08-07/v60331.jpg
 
 ```json
 "video": {
-  "url": "https://papervn.jizpaper.com/today/2026-08-08/v65619.mp4"
+  "url": "https://papervn-today.jizpaper.com/2026-08-08-v65619.mp4"
 }
 ```
 
@@ -191,9 +191,17 @@ images/2026-08-07/v60331.jpg
 }
 ```
 
+如果对象名称包含日文或其他非 ASCII 字符，建议在 URL 中使用百分号编码。例如对象名为 `2026-08-08-ユリアリス.mp4` 时：
+
+```json
+"video": {
+  "url": "https://papervn-today.jizpaper.com/Today/2026-08-08-%E3%83%A6%E3%83%AA%E3%82%A2%E3%83%AA%E3%82%B9.mp4"
+}
+```
+
 卡片有 `video` 时固定使用 16:9，视频默认静音循环播放，滑出屏幕后暂停。相关内容区域使用 `image` 或 VNDB 封面作为背景。
 
-小型测试 MP4 可以放在仓库的 `videos/`目录，但正式视频建议放在 `papervn.jizpaper.com` 或对象存储/CDN。GitHub Raw 不适合长期承担大视频流量。服务器需要支持 HTTPS、正确的 `video/mp4` 或 HLS MIME 类型，以及 HTTP Range 请求。
+小型测试 MP4 可以放在仓库的 `videos/`目录，但正式视频建议放在对象存储/CDN，并通过类似 `papervn-today.jizpaper.com` 的自定义域名访问。GitHub Raw 不适合长期承担大视频流量。视频服务需要支持 HTTPS、正确的 `video/mp4` 或 HLS MIME 类型，以及 HTTP Range 请求。
 
 ### related 关联内容
 
