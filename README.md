@@ -15,11 +15,15 @@ images/
     v4.jpg
   2026-08-08/
     ...
+videos/
+  2026-08-08/
+    v65619.mp4
 ```
 
 - `manifest.json`：Today 服务入口和离线回退入口。
 - `feeds/YYYY-MM-DD.json`：某一天的全部 Today 卡片。
 - `images/YYYY-MM-DD/`：该日期卡片使用的图片。
+- `videos/YYYY-MM-DD/`：可选，只适合存放测试用的小型视频。
 
 可以提前准备未来日期的内容。不同日期使用不同的 JSON 和图片目录，不需要覆盖旧日期的文件。
 
@@ -125,7 +129,8 @@ feeds/YYYY-MM-DD.json
 - `eyebrow`：卡片左上角的小标题，例如“最近发行”“你知道吗”“即将发行”。支持多语言对象。
 - `description`：卡片底部的主要描述文字。支持多语言对象。
 - `releaseDate`：可选。填写后会显示在描述下方，例如 `2026年8月16日`。支持多语言对象。
-- `image`：卡片封面图片及其实际像素尺寸。
+- `image`：可选。指定编辑封面图片及其实际像素尺寸；省略时 App 会从 VNDB 获取该作品的封面。
+- `video`：可选。填写后该卡片会以 16:9 播放静音循环视频，下方仍显示相关作品和相关角色。
 - `related`：相关作品和相关角色。没有额外关联时必须写空数组 `[]`。
 
 ### 多语言文本
@@ -156,6 +161,10 @@ Today 会按照用户当前的 App 界面语言选择文本。支持以下语言
 
 ### image 图片
 
+`image` 是可选字段。如果作品的 VNDB 封面适合卡片，可以直接省略 `image`，App 会根据 `visualNovelID` 获取 VNDB 原始封面。
+
+只有在需要专门的宣传图、截图或构图时，才需要把图片放进这个仓库：
+
 图片路径相对于仓库根目录：
 
 ```text
@@ -163,6 +172,28 @@ images/2026-08-07/v60331.jpg
 ```
 
 `width` 和 `height` 必须填写图片的实际像素尺寸，不是 App 中显示的尺寸。建议使用 JPG 或 PNG，并确保图片已经提交到对应日期目录。
+
+### video 视频
+
+视频卡片使用以下格式：
+
+```json
+"video": {
+  "url": "https://papervn.jizpaper.com/today/2026-08-08/v65619.mp4"
+}
+```
+
+`url` 可以是完整 HTTPS 地址，也可以是相对于仓库根目录的路径：
+
+```json
+"video": {
+  "url": "videos/2026-08-08/v65619.mp4"
+}
+```
+
+卡片有 `video` 时固定使用 16:9，视频默认静音循环播放，滑出屏幕后暂停。相关内容区域使用 `image` 或 VNDB 封面作为背景。
+
+小型测试 MP4 可以放在仓库的 `videos/`目录，但正式视频建议放在 `papervn.jizpaper.com` 或对象存储/CDN。GitHub Raw 不适合长期承担大视频流量。服务器需要支持 HTTPS、正确的 `video/mp4` 或 HLS MIME 类型，以及 HTTP Range 请求。
 
 ### related 关联内容
 
@@ -243,19 +274,29 @@ images/2026-08-07/v60331.jpg
 
 ## 如何写自己的 Today
 
-1. 在 `images/YYYY-MM-DD/` 放入当天卡片图片。
-2. 复制一个已有的 `feeds/YYYY-MM-DD.json`，改成新的日期。
-3. 按顺序增删 `stories`，修改每张卡片的 `eyebrow`、`description`、`releaseDate` 和 `visualNovelID`。
-4. 对 `eyebrow`、`description` 等文本填写多语言对象；没有翻译的语言可以省略，App 会回退到 `default`。
-5. 如果两张上下相邻的卡片属于同一系列，给它们填写相同的 `groupID`。
-6. 确认 JSON 和图片路径正确。
-7. 提交并推送到 GitHub 的 `main` 分支。
+1. 复制一个已有的 `feeds/YYYY-MM-DD.json`，改成新的日期。
+2. 按顺序增删 `stories`，修改每张卡片的 `eyebrow`、`description`、`releaseDate` 和 `visualNovelID`。
+3. 对 `eyebrow`、`description` 等文本填写多语言对象；没有翻译的语言可以省略，App 会回退到 `default`。
+4. 使用 VNDB 封面时省略 `image`；需要编辑图片时再放入 `images/YYYY-MM-DD/`。
+5. 视频卡片填写 `video.url`，并确保视频地址已经可访问。
+6. 如果两张上下相邻的卡片属于同一系列，给它们填写相同的 `groupID`。
+7. 确认 JSON、图片路径和视频地址正确。
+8. 提交并推送到 GitHub 的 `main` 分支。
 
 本地可以用 `jq` 检查 JSON：
 
 ```bash
 jq empty manifest.json feeds/2026-08-07.json
 ```
+
+## 预览未来的 Today
+
+PaperVN 的 Debug 构建会在 Today 标题右侧显示日历按钮：
+
+- 选择“预览明天”后，App 会直接请求明天的 `feeds/YYYY-MM-DD.json`。
+- 选择“使用联网日期”后，恢复根据 GitHub 响应头日期选择 Today。
+
+预览只存在于 Debug 构建，不会改变正式版 App 的日期判定。预览前需要先把对应日期的 JSON 和媒体推送到 Today 仓库。
 
 ## 推荐游戏
 

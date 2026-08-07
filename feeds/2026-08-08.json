@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-08",
+  "stories": [
+    {
+      "id": "2026-08-08-v65619",
+      "visualNovelID": "v65619",
+      "accessibilityTitle": {
+        "default": "百合爱丽丝",
+        "zh-Hant": "",
+        "ja": "ユリアリス",
+        "ko": "",
+        "en": "Yuriarisu"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "百合克苏鲁是什么东西？",
+        "zh-Hant": "百合克蘇魯是什麼東西？",
+        "ja": "",
+        "ko": "",
+        "en": ""
+      },
+      "releaseDate": {
+        "default": "2026年8月16日（C108）",
+        "zh-Hant": "2026年8月16日（C108）",
+        "ja": "2026年8月16日（C108）",
+        "ko": "2026년 8월 16일 (C108)",
+        "en": "August 16, 2026 (C108)"
+      },
+      "video": {
+        "url": "videos/2026-08-08/v65619.mp4"
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-07-v4",
+      "visualNovelID": "v4",
+      "accessibilityTitle": {
+        "default": "CLANNAD",
+        "zh-Hant": "CLANNAD",
+        "ja": "CLANNAD",
+        "ko": "CLANNAD",
+        "en": "CLANNAD"
+      },
+      "eyebrow": {
+        "default": "你知道吗",
+        "zh-Hant": "你知道嗎",
+        "ja": "ご存じですか",
+        "ko": "알고 계셨나요",
+        "en": "Did You Know?"
+      },
+      "description": {
+        "default": "今天是宫泽有纪宁的生日。",
+        "zh-Hant": "今天是宮澤有紀寧的生日。",
+        "ja": "今日は宮沢有紀寧の誕生日です。",
+        "ko": "오늘은 미야자와 유키네의 생일입니다.",
+        "en": "Today is Yukine Miyazawa's birthday."
+      },
+      "image": {
+        "path": "images/2026-08-07/v4.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": [
+        {
+          "type": "visualNovel",
+          "id": "v4",
+          "title": {
+            "default": "CLANNAD",
+            "zh-Hant": "CLANNAD",
+            "ja": "CLANNAD",
+            "ko": "CLANNAD",
+            "en": "CLANNAD"
+          }
+        },
+        {
+          "type": "character",
+          "id": "c15850",
+          "title": {
+            "default": "宫泽有纪宁",
+            "zh-Hant": "宮澤有紀寧",
+            "ja": "宮沢有紀寧",
+            "ko": "미야자와 유키네",
+            "en": "Yukine Miyazawa"
+          },
+          "original": "宮沢 有紀寧"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-07-v60331",
+      "groupID": "shiratamaco-2026-08-07",
+      "visualNovelID": "v60331",
+      "accessibilityTitle": {
+        "default": "とける風花とシロうさぎ",
+        "zh-Hant": "とける風花とシロうさぎ",
+        "ja": "とける風花とシロうさぎ",
+        "ko": "とける風花とシロうさぎ",
+        "en": "Tokeru Fuuka to Shiro Usagi"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "白玉的最新作品。",
+        "zh-Hant": "白玉的最新作品。",
+        "ja": "しらたまこの最新作。",
+        "ko": "시라타마코의 최신 작품입니다.",
+        "en": "The latest title from Shiratamaco."
+      },
+      "releaseDate": {
+        "default": "2026年8月16日",
+        "zh-Hant": "2026年8月16日",
+        "ja": "2026年8月16日",
+        "ko": "2026년 8월 16일",
+        "en": "August 16, 2026"
+      },
+      "image": {
+        "path": "images/2026-08-07/v60331.jpg",
+        "width": 1200,
+        "height": 849
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-07-v28297",
+      "groupID": "shiratamaco-2026-08-07",
+      "visualNovelID": "v28297",
+      "accessibilityTitle": {
+        "default": "星空列车与白的旅行",
+        "zh-Hant": "星空列車與白的旅行",
+        "ja": "星空鉄道とシロの旅",
+        "ko": "별하늘 철도와 시로의 여행",
+        "en": "Hoshizora Tetsudou to Shiro no Tabi"
+      },
+      "eyebrow": {
+        "default": "更多来自白玉",
+        "zh-Hant": "更多來自白玉",
+        "ja": "しらたまこからもっと",
+        "ko": "시라타마코의 소프트의 더 많은 작품",
+        "en": "More from Shiratamaco"
+      },
+      "description": {
+        "default": "那可不是……梦。",
+        "zh-Hant": "那可不是……夢。",
+        "ja": "あれは……夢じゃない。",
+        "ko": "그건……꿈이 아니었어.",
+        "en": "That wasn't... a dream."
+      },
+      "image": {
+        "path": "images/2026-08-07/v28297.jpg",
+        "width": 383,
+        "height": 512
+      },
+      "related": []
+    }
+  ]
+}
