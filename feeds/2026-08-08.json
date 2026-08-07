@@ -42,11 +42,11 @@
           {
             "style": "primary",
             "markdown": {
-              "default": "少女们的相遇，将日常引向无法名状的世界。**百合**与*克苏鲁神话*在这里交织。",
-              "zh-Hant": "少女們的相遇，將日常引向無法名狀的世界。**百合**與*克蘇魯神話*在這裡交織。",
-              "ja": "少女たちの出会いは、日常を名状しがたい世界へ導く。**百合**と*クトゥルフ神話*が交差する。",
-              "ko": "소녀들의 만남은 일상을 형언할 수 없는 세계로 이끕니다. **백합**과 *크툴루 신화*가 교차합니다.",
-              "en": "The girls' encounter leads everyday life into an indescribable world, where **yuri** meets *the Cthulhu mythos*."
+              "default": "“我回来了，尤里酱。”",
+              "zh-Hant": "",
+              "ja": "",
+              "ko": "",
+              "en": "\"I'm home, Yuri-chan.\""
             }
           },
           {
@@ -55,8 +55,8 @@
               "default": "~~平凡的夏日~~，将在2026年8月16日（C108）迎来发行。",
               "zh-Hant": "~~平凡的夏日~~，將於2026年8月16日（C108）發行。",
               "ja": "~~ありふれた夏~~は、2026年8月16日（C108）に発売予定。",
-              "ko": "~~평범한 여름~~은 2026년 8월 16일(C108)에 발매 예정입니다.",
-              "en": "~~An ordinary summer~~ arrives on August 16, 2026 (C108)."
+              "ko": " ~~평범한 여름~~은 2026년 8월 16일(C108)에 발매 예정입니다.",
+              "en": " ~~An ordinary summer~~ arrives on August 16, 2026 (C108)."
             }
           }
         ]
