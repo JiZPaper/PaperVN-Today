@@ -226,7 +226,7 @@ images/2026-08-07/v60331.jpg
 
 ```json
 "video": {
-  "url": "https://papervn-today.jizpaper.com/2026-08-08-v65619.mp4"
+  "url": "https://papervn-today.jizpaper.com/Today/2026-08-08-%E3%83%A6%E3%83%AA%E3%82%A2%E3%83%AA%E3%82%B9.mp4"
 }
 ```
 
