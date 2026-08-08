@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-08-09",
+  "stories": [
+    {
+      "id": "2026-08-09-v30012",
+      "visualNovelID": "v30012",
+      "accessibilityTitle": {
+        "default": "冬旅，方冥冥。",
+        "zh-Hant": "冬旅，方冥冥。",
+        "ja": "ふゆから、くるる。",
+        "ko": "후유카라, 쿠루루.",
+        "en": "Fuyukara, Kururu."
+      },
+      "eyebrow": {
+        "default": "开发者推荐",
+        "zh-Hant": "開發者推薦",
+        "ja": "開発者おすすめ",
+        "ko": "개발자 추천",
+        "en": "Developer's Pick"
+      },
+      "description": {
+        "default": "请速速与我击剑！",
+        "zh-Hant": "請速速與我擊劍！",
+        "ja": "さあ、早く私と剣を交えてください！",
+        "ko": "어서 저와 검을 겨뤄 주세요!",
+        "en": "Come fence with me at once!"
+      },
+      "introduction": {
+        "schemaVersion": 1,
+        "blocks": [
+          {
+            "style": "primary",
+            "markdown": {
+              "default": "**“嗯？しほん酱的头失踪了？”**",
+              "zh-Hant": "**「嗯？しほん醬的頭不見了？」**",
+              "ja": "**「ええっ？しほんちゃんの頭部がなくなっちゃったの？」**",
+              "ko": "**“응? 시혼짱의 머리가 사라졌다고?”**",
+              "en": "**“Huh? Shihon-chan's head has gone missing?”**"
+            }
+          },
+          {
+            "style": "secondary",
+            "markdown": {
+              "default": "\n在这里，永生不死的少女们被迫直面一连串残酷的杀人事件，\n在无法逃离的命运中，奋起反抗。\n——在“针”的引导之下，\n永生不死的少女们，一步步走向死亡。",
+              "zh-Hant": "\n在這裡，永生不死的少女們被迫直面一連串殘酷的殺人事件，\n在無法逃離的命運中，奮起反抗。\n——在「針」的引導之下，\n永生不死的少女們，一步步走向死亡。",
+              "ja": "\nここでは、不死の少女たちが次々と起こる残酷な殺人事件に直面し、\n逃れられない運命に抗う。\n――「針」に導かれ、\n不死の少女たちは一歩ずつ死へと近づいていく。",
+              "ko": "\n이곳에서 불사의 소녀들은 잇따라 벌어지는 잔혹한 살인 사건과 마주하고,\n벗어날 수 없는 운명에 맞서 싸운다.\n——‘바늘’의 인도 아래,\n불사의 소녀들은 한 걸음씩 죽음을 향해 나아간다.",
+              "en": "\nHere, immortal girls are forced to confront a series of brutal murders,\nrising up against a fate from which there is no escape.\n—Guided by the “needle,”\nthe immortal girls take one step after another toward death."
+            }
+          }
+        ]
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-09-v65076",
+      "visualNovelID": "v65076",
+      "accessibilityTitle": {
+        "default": "完蛋！我被男同学包围了",
+        "zh-Hant": "完蛋！我被男同學包圍了",
+        "ja": "大変！男子同級生に囲まれた",
+        "ko": "큰일 났다! 남자 동급생들에게 둘러싸였다",
+        "en": "Oh No! I'm Surrounded by Male Classmates"
+      },
+      "eyebrow": {
+        "default": "最近发行",
+        "zh-Hant": "最近發行",
+        "ja": "最近発売",
+        "ko": "최근 출시",
+        "en": "New Release"
+      },
+      "description": {
+        "default": "恋爱游戏，大抵。",
+        "zh-Hant": "戀愛遊戲，大抵。",
+        "ja": "恋愛ゲーム、たぶん。",
+        "ko": "연애 게임, 아마도.",
+        "en": "A dating sim, probably."
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-09-v777",
+      "visualNovelID": "v777",
+      "accessibilityTitle": {
+        "default": "魔法使之夜",
+        "zh-Hant": "魔法使之夜",
+        "ja": "魔法使いの夜",
+        "ko": "마법사의 밤",
+        "en": "Witch on the Holy Night"
+      },
+      "eyebrow": {
+        "default": "经典作品",
+        "zh-Hant": "經典作品",
+        "ja": "名作",
+        "ko": "명작",
+        "en": "Classic"
+      },
+      "description": {
+        "default": "很美对吧？但真正美丽的东西，往往是会伤人的。",
+        "zh-Hant": "很美對吧？但真正美麗的東西，往往是會傷人的。",
+        "ja": "綺麗でしょう？ けれど、本当に綺麗なものは人を傷つけるものなのよ。",
+        "ko": "아름답지? 하지만 정말 아름다운 것은 대개 사람에게 상처를 주는 법이야.",
+        "en": "Beautiful, isn't it? But truly beautiful things often hurt people."
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-09-v33493",
+      "visualNovelID": "v33493",
+      "accessibilityTitle": {
+        "default": "主播女孩重度依赖",
+        "zh-Hant": "主播女孩重度依賴",
+        "ja": "NEEDY GIRL OVERDOSE",
+        "ko": "니디 걸 오버도즈 : NEEDY GIRL OVERDOSE",
+        "en": "NEEDY GIRL OVERDOSE"
+      },
+      "eyebrow": {
+        "default": "最近动画化",
+        "zh-Hant": "最近動畫化",
+        "ja": "最近アニメ化",
+        "ko": "최근 애니메이션화",
+        "en": "Recently Adapted into Anime"
+      },
+      "description": {
+        "default": "†升天††升天††升天††升天††升天††升天††升天††升天††升天††升天††升天†",
+        "zh-Hant": "†昇天††昇天††昇天††昇天††昇天††昇天††昇天††昇天††昇天††昇天††昇天†",
+        "ja": "†昇天††昇天††昇天††昇天††昇天††昇天††昇天††昇天††昇天††昇天††昇天†",
+        "ko": "†승천††승천††승천††승천††승천††승천††승천††승천††승천††승천††승천†",
+        "en": "†ASCEND††ASCEND††ASCEND††ASCEND††ASCEND††ASCEND††ASCEND††ASCEND††ASCEND††ASCEND††ASCEND†"
+      },
+      "related": []
+    }
+  ]
+}
