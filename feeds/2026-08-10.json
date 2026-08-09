@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-08-10",
+  "stories": [
+    {
+      "id": "2026-08-10-v61376",
+      "visualNovelID": "v61376",
+      "accessibilityTitle": {
+        "default": "妹妹、他人、妄想症",
+        "zh-Hant": "",
+        "ja": "妹、他者、パラノイア",
+        "ko": "",
+        "en": "Sister Other Paranoia"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "《主播女孩重度依赖》编剧的最新作品。\n“我会一直陪在你身边的，哥哥。”",
+        "zh-Hant": "",
+        "ja": "",
+        "ko": "",
+        "en": ""
+      },
+      "releaseDate": {
+        "default": "2026年8月14日",
+        "zh-Hant": "2026年8月14日",
+        "ja": "2026年8月14日",
+        "ko": "2026년 8월 14일",
+        "en": "August 14, 2026"
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-10-v63431",
+      "visualNovelID": "v63431",
+      "accessibilityTitle": {
+        "default": "难道你是GAL高手",
+        "zh-Hant": "",
+        "ja": "",
+        "ko": "",
+        "en": "Nandao Ni Shi GAL Gaoshou"
+      },
+      "eyebrow": {
+        "default": "最近发行",
+        "zh-Hant": "最近發行",
+        "ja": "最近発売",
+        "ko": "최근 출시",
+        "en": "New Release"
+      },
+      "description": {
+        "default": "欢迎来到Ciallo之家！",
+        "zh-Hant": "",
+        "ja": "",
+        "ko": "",
+        "en": ""
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-10-v33493",
+      "groupID": "crystalia-2026-08-10",
+      "visualNovelID": "v33493",
+      "accessibilityTitle": {
+        "default": "RE:D Cherish!",
+        "zh-Hant": "RE:D Cherish!",
+        "ja": "RE:D Cherish!",
+        "ko": "RE:D Cherish!",
+        "en": "RE:D Cherish!"
+      },
+      "eyebrow": {
+        "default": "开发者推荐",
+        "zh-Hant": "開發者推薦",
+        "ja": "開発者おすすめ",
+        "ko": "개발자 추천",
+        "en": "Developer's Pick"
+      },
+      "description": {
+        "default": "传达另类价值的赛博朋克世界与人的定义的探究。",
+        "zh-Hant": "",
+        "ja": "",
+        "ko": "",
+        "en": ""
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-10-v21465",
+      "groupID": "crystalia-2026-08-10",
+      "visualNovelID": "v21465",
+      "accessibilityTitle": {
+        "default": "牵绊闪耀的恋之伊吕波",
+        "zh-Hant": "",
+        "ja": "絆きらめく恋いろは",
+        "ko": "",
+        "en": "Kizuna Kirameku Koi Iroha"
+      },
+      "eyebrow": {
+        "default": "更多来自CRYSTALiA",
+        "zh-Hant": "",
+        "ja": "",
+        "ko": "",
+        "en": ""
+      },
+      "description": {
+        "default": "这个我也不知道要写什么描述但是…额…现在距离明天还剩1分20秒没时间想了，就这样吧。今天忘记写Today推荐内容了。",
+        "zh-Hant": "",
+        "ja": "",
+        "ko": "",
+        "en": ""
+      },
+      "related": []
+    }
+  ]
+}
