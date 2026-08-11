@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-08-12",
+  "stories": [
+    {
+      "id": "2026-08-12-v53726",
+      "visualNovelID": "v53726",
+      "accessibilityTitle": {
+        "default": "世纪末之诗",
+        "zh-Hant": "",
+        "ja": "世紀末之詩",
+        "ko": "",
+        "en": "Seikimatsu no Shi"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "世纪末的预言余烬里，写下最后一首并非恋爱的诗。",
+        "zh-Hant": "世紀末的預言餘燼裡，寫下最後一首並非戀愛的詩。",
+        "ja": "世紀末の予言の残り火の中、最後に恋ではない詩を書き記す。",
+        "ko": "세기말 예언의 잿불 속에서, 마지막으로 사랑이 아닌 시 한 편을 써 내려간다.",
+        "en": "Amid the embers of a fin-de-siècle prophecy, one final poem is written—not of love."
+      },
+      "releaseDate": {
+        "default": "2026（试玩版已发行）",
+        "zh-Hant": "2026（體驗版已發行）",
+        "ja": "2026年（体験版配信中）",
+        "ko": "2026년(체험판 출시 완료)",
+        "en": "2026 (Demo Available)"
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-12-v63431",
+      "visualNovelID": "v63431",
+      "accessibilityTitle": {
+        "default": "尸体派对Ⅱ Darkness Distortion",
+        "zh-Hant": "",
+        "ja": "コープスパーティーⅡ Darkness Distortion",
+        "ko": "",
+        "en": "Corpse Party II - Darkness Distortion"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "每一次选择都可能成为错误的终点，而真正的“慈悲”或许只是更深的陷落。",
+        "zh-Hant": "每一次選擇都可能成為錯誤的終點，而真正的「慈悲」或許只是更深的陷落。",
+        "ja": "すべての選択が誤った結末へとつながり、本当の「慈悲」とは、さらなる深みへの転落にすぎないのかもしれない。",
+        "ko": "모든 선택이 잘못된 결말로 이어질 수 있고, 진정한 ‘자비’란 어쩌면 더 깊은 나락으로 떨어지는 것일 뿐인지도 모른다.",
+        "en": "Every choice could lead to the wrong ending, and true “mercy” may be nothing more than a deeper fall."
+      },
+      "releaseDate": {
+        "default": "2026",
+        "zh-Hant": "2026",
+        "ja": "2026",
+        "ko": "2026",
+        "en": "2026"
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-12-v52251",
+      "visualNovelID": "v52251",
+      "accessibilityTitle": {
+        "default": "赝作",
+        "zh-Hant": "",
+        "ja": "",
+        "ko": "",
+        "en": ""
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "“是啊，我们已经……不会再有未来了。”",
+        "zh-Hant": "「是啊，我們已經……不會再有未來了。」",
+        "ja": "「そう、もう……私たちに未来はないんだ。」",
+        "ko": "“그래, 우리에겐 이제…… 미래가 없어.”",
+        "en": "“Yeah, we... don't have a future anymore.”"
+      },
+      "releaseDate": {
+        "default": "2026",
+        "zh-Hant": "2026",
+        "ja": "2026",
+        "ko": "2026",
+        "en": "2026"
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-12-v59003",
+      "visualNovelID": "v59003",
+      "accessibilityTitle": {
+        "default": "夜的名字",
+        "zh-Hant": "",
+        "ja": "夜の名前",
+        "ko": "",
+        "en": ""
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "完全不同的我们，在同一个地方，沉迷于同一事物的那段时光——",
+        "zh-Hant": "完全不同的我們，在同一個地方，沉迷於同一事物的那段時光——",
+        "ja": "全然違うわたしたち、同じ場所で、同じものに夢中になっていたあの頃——",
+        "ko": "전혀 다른 우리가 같은 곳에서 같은 것에 빠져 있던 그 시절——",
+        "en": "Though we were completely different, we spent those days in the same place, absorbed in the same thing—"
+      },
+      "releaseDate": {
+        "default": "2026",
+        "zh-Hant": "2026",
+        "ja": "2026",
+        "ko": "2026",
+        "en": "2026"
+      },
+      "related": []
+    }
+  ]
+}
