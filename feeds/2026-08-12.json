@@ -31,6 +31,11 @@
         "ko": "2026년(체험판 출시 완료)",
         "en": "2026 (Demo Available)"
       },
+      "image": {
+        "path": "images/2026-08-12/v53726.jpg",
+        "width": 1248,
+        "height": 1768
+      },
       "related": []
     },
     {
@@ -62,6 +67,11 @@
         "ko": "2026",
         "en": "2026"
       },
+      "image": {
+        "path": "images/2026-08-12/v46514.jpg",
+        "width": 1216,
+        "height": 1720
+      },
       "related": []
     },
     {
@@ -90,6 +100,11 @@
         "ja": "2026",
         "ko": "2026",
         "en": "2026"
+      },
+      "image": {
+        "path": "images/2026-08-12/v52251.jpg",
+        "width": 600,
+        "height": 900
       },
       "related": []
     },
@@ -120,6 +135,11 @@
         "ja": "2026",
         "ko": "2026",
         "en": "2026"
+      },
+      "image": {
+        "path": "images/2026-08-12/v59003.jpg",
+        "width": 600,
+        "height": 900
       },
       "related": []
     }
