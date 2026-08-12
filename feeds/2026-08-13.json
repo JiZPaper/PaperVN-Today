@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-08-13",
+  "stories": [
+    {
+      "id": "2026-08-13-v26790",
+      "visualNovelID": "v26790",
+      "accessibilityTitle": {
+        "default": "Shiny Sisters",
+        "zh-Hant": "Shiny Sisters",
+        "ja": "シャイニー・シスターズ",
+        "ko": "Shiny Sisters",
+        "en": "Shiny Sisters"
+      },
+      "eyebrow": {
+        "default": "最近发行",
+        "zh-Hant": "最近發行",
+        "ja": "最近発売",
+        "ko": "최근 출시",
+        "en": "New Release"
+      },
+      "description": {
+        "default": "学园亲睦会上邂逅的历代女装主角，骤然接到偶像邀约——",
+        "zh-Hant": "學園聯誼會上邂逅的歷代女裝主角，驟然接到偶像邀約——",
+        "ja": "お嬢様学園の親睦会で知り合った歴代女装主人公たちが、突然のアイドルオファー！",
+        "ko": "학원 친목회에서 만난 역대 여장 주인공들에게 갑작스러운 아이돌 제안이 들어오는데——",
+        "en": "At an academy social, cross-dressing protagonists from past titles meet—and suddenly receive an offer to become idols."
+      },
+      "image": {
+        "path": "images/2026-08-13/v26790.jpg",
+        "width": 606,
+        "height": 856
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-13-v67143",
+      "visualNovelID": "v67143",
+      "accessibilityTitle": {
+        "default": "One Night After",
+        "zh-Hant": "One Night After",
+        "ja": "ワンナイトアフター -ONE NIGHT AFTER-",
+        "ko": "One Night After",
+        "en": "One Night After"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "碎片般的爱情、背叛、和解，写满不曾预料的宿命。",
+        "zh-Hant": "碎片般的愛情、背叛、和解，寫滿不曾預料的宿命。",
+        "ja": "欠片のような恋、裏切り、和解が、思いもよらぬ運命を綴っていく。",
+        "ko": "조각 같은 사랑과 배신, 화해가 예상치 못한 운명을 써 내려간다.",
+        "en": "Fragments of love, betrayal, and reconciliation tell of a fate no one foresaw."
+      },
+      "releaseDate": {
+        "default": "2026年11月27日",
+        "zh-Hant": "2026年11月27日",
+        "ja": "2026年11月27日",
+        "ko": "2026년 11월 27일",
+        "en": "November 27, 2026"
+      },
+      "image": {
+        "path": "images/2026-08-13/v67143.jpg",
+        "width": 1280,
+        "height": 720
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-13-v26581",
+      "groupID": "relate-2026-08-13",
+      "visualNovelID": "v26581",
+      "accessibilityTitle": {
+        "default": "巧克甜恋",
+        "zh-Hant": "巧克甜戀",
+        "ja": "あまいろショコラータ",
+        "ko": "Amairo Chocolate",
+        "en": "Amairo Chocolate"
+      },
+      "eyebrow": {
+        "default": "开发者推荐",
+        "zh-Hant": "開發者推薦",
+        "ja": "開発者おすすめ",
+        "ko": "개발자 추천",
+        "en": "Developer's Pick"
+      },
+      "description": {
+        "default": "“ご主人様，欢迎光临‘Setaria’！”",
+        "zh-Hant": "「ご主人様，歡迎光臨『Setaria』！」",
+        "ja": "「ご主人様、いらっしゃいませ！『セタリア』へようこそ！」",
+        "ko": "“주인님, ‘Setaria’에 어서 오세요!”",
+        "en": "“Welcome to Setaria, Master!”"
+      },
+      "image": {
+        "path": "images/2026-08-13/v26581.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-13-v20196",
+      "groupID": "relate-2026-08-13",
+      "visualNovelID": "v20196",
+      "accessibilityTitle": {
+        "default": "糖调",
+        "zh-Hant": "糖調",
+        "ja": "しゅがてん！-sugarfull tempering-",
+        "ko": "슈가텐! -sugarfull tempering-",
+        "en": "Sugar Sweet Temptation"
+      },
+      "eyebrow": {
+        "default": "更多与《巧克甜恋》相似",
+        "zh-Hant": "更多與《巧克甜戀》相似的作品",
+        "ja": "『あまいろショコラータ』に似た作品をもっと見る",
+        "ko": "《Amairo Chocolate》와 비슷한 작품 더 보기",
+        "en": "More Like Amairo Chocolate"
+      },
+      "description": {
+        "default": "",
+        "zh-Hant": "",
+        "ja": "",
+        "ko": "",
+        "en": ""
+      },
+      "image": {
+        "path": "images/2026-08-13/v20196.jpg",
+        "width": 793,
+        "height": 560
+      },
+      "related": []
+    }
+  ]
+}
