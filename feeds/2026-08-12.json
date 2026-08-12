@@ -7,9 +7,7 @@
       "visualNovelID": "v53726",
       "accessibilityTitle": {
         "default": "世纪末之诗",
-        "zh-Hant": "",
         "ja": "世紀末之詩",
-        "ko": "",
         "en": "Seikimatsu no Shi"
       },
       "eyebrow": {
@@ -40,9 +38,7 @@
       "visualNovelID": "v46514",
       "accessibilityTitle": {
         "default": "尸体派对Ⅱ Darkness Distortion",
-        "zh-Hant": "",
         "ja": "コープスパーティーⅡ Darkness Distortion",
-        "ko": "",
         "en": "Corpse Party II - Darkness Distortion"
       },
       "eyebrow": {
@@ -72,11 +68,7 @@
       "id": "2026-08-12-v52251",
       "visualNovelID": "v52251",
       "accessibilityTitle": {
-        "default": "赝作",
-        "zh-Hant": "",
-        "ja": "",
-        "ko": "",
-        "en": ""
+        "default": "赝作"
       },
       "eyebrow": {
         "default": "即将发行",
@@ -106,10 +98,7 @@
       "visualNovelID": "v59003",
       "accessibilityTitle": {
         "default": "夜的名字",
-        "zh-Hant": "",
-        "ja": "夜の名前",
-        "ko": "",
-        "en": ""
+        "ja": "夜の名前"
       },
       "eyebrow": {
         "default": "即将发行",
