@@ -122,11 +122,11 @@
         "en": "More Like Amairo Chocolate"
       },
       "description": {
-        "default": "",
-        "zh-Hant": "",
-        "ja": "",
-        "ko": "",
-        "en": ""
+        "default": "“呐，愿意成为我的‘第一’吗？”",
+        "zh-Hant": "「吶，你能成為我的『第一』嗎？」",
+        "ja": "「ねぇ、私の『一番』になってくれる？」",
+        "ko": "\"있잖아, 내 '첫 번째'가 되어줄래?\"",
+        "en": "\"Hey, will you be my 'number one'?\""
       },
       "image": {
         "path": "images/2026-08-13/v20196.jpg",
