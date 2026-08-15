@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-08-16",
+  "stories": [
+    {
+      "id": "2026-08-16-v57527",
+      "visualNovelID": "v57527",
+      "accessibilityTitle": {
+        "default": "ENCORE!",
+        "zh-Hant": "ENCORE!",
+        "ja": "ENCORE!",
+        "ko": "ENCORE!",
+        "en": "ENCORE!"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "转学生是我推的管人还拉我做GAL？！",
+        "zh-Hant": "轉學生是我推的VTuber，還拉我做GAL？！",
+        "ja": "転校生が推しのVTuberで、しかもギャルゲー制作にまで誘ってきた？！",
+        "ko": "전학생이 내 최애 버튜버인데, 나한테 미연시까지 같이 만들자고 한다고?!",
+        "en": "The transfer student is my favorite VTuber—and wants me to make a visual novel?!"
+      },
+      "releaseDate": {
+        "default": "2026年8月16日（Plus）",
+        "zh-Hant": "2026年8月16日（Plus）",
+        "ja": "2026年8月16日（Plus）",
+        "ko": "2026년 8월 16일 (Plus)",
+        "en": "August 16, 2026 (Plus)"
+      },
+      "image": {
+        "path": "images/2026-08-16/v57527.jpg",
+        "width": 2121,
+        "height": 3000
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-16-v19073",
+      "visualNovelID": "v19073",
+      "accessibilityTitle": {
+        "default": "千恋＊万花",
+        "zh-Hant": "千戀＊萬花",
+        "ja": "千恋＊万花",
+        "ko": "천연만화",
+        "en": "Senren＊Banka"
+      },
+      "eyebrow": {
+        "default": "动画化预定",
+        "zh-Hant": "動畫化預定",
+        "ja": "アニメ化予定",
+        "ko": "애니메이션화 예정",
+        "en": "Anime Adaptation Announced"
+      },
+      "description": {
+        "default": "前几天看到动画化预定我以为是假的。",
+        "zh-Hant": "前幾天看到動畫化預定時，我還以為是假的。",
+        "ja": "先日、アニメ化決定の知らせを見て、てっきり嘘だと思った。",
+        "ko": "며칠 전 애니메이션화 소식을 봤을 때는 가짜인 줄 알았다.",
+        "en": "When I saw the anime adaptation announcement a few days ago, I thought it was fake."
+      },
+      "releaseDate": {
+        "default": "2027",
+        "zh-Hant": "2027",
+        "ja": "2027",
+        "ko": "2027",
+        "en": "2027"
+      },
+      "image": {
+        "path": "images/2026-08-16/v19073.jpg",
+        "width": 402,
+        "height": 560
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-16-v67998",
+      "visualNovelID": "v67998",
+      "accessibilityTitle": {
+        "default": "在世界迎来终焉之前",
+        "zh-Hant": "在世界迎來終焉之前",
+        "ja": "世界が終わるその前に",
+        "ko": "세계가 끝나기 전에",
+        "en": "Sekai ga Owaru Sono Mae ni"
+      },
+      "eyebrow": {
+        "default": "最近发行",
+        "zh-Hant": "最近發行",
+        "ja": "最近発売",
+        "ko": "최근 출시",
+        "en": "New Release"
+      },
+      "description": {
+        "default": "一个被绿意覆盖的世界。",
+        "zh-Hant": "一個被綠意覆蓋的世界。",
+        "ja": "緑に覆われた世界。",
+        "ko": "녹음으로 뒤덮인 세계.",
+        "en": "A world covered in greenery."
+      },
+      "image": {
+        "path": "images/2026-08-16/v67998.jpg",
+        "width": 973,
+        "height": 615
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-16-v49893",
+      "visualNovelID": "v49893",
+      "accessibilityTitle": {
+        "default": "妹相随～黑白世界的缤纷冒险～",
+        "zh-Hant": "妹相隨～黑白世界的繽紛冒險～",
+        "ja": "妹！せいかつ～ファンタジー～",
+        "ko": "妹！せいかつ～ファンタジー～",
+        "en": "Living With Sister: Monochrome Fantasy"
+      },
+      "eyebrow": {
+        "default": "开发者推荐",
+        "zh-Hant": "開發者推薦",
+        "ja": "開発者おすすめ",
+        "ko": "개발자 추천",
+        "en": "Developer's Pick"
+      },
+      "description": {
+        "default": "我高中上信息课的时候偷偷玩这个（真的）",
+        "zh-Hant": "我高中上資訊課的時候偷偷玩這個（真的）",
+        "ja": "高校の情報の授業中、こっそりこれをプレイしてました（本当です）",
+        "ko": "고등학교 정보 수업 시간에 몰래 이걸 했습니다(진짜예요).",
+        "en": "I secretly played this during computer class in high school (seriously)."
+      },
+      "image": {
+        "path": "images/2026-08-16/v49893.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      "related": []
+    }
+  ]
+}
