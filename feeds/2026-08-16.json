@@ -2,6 +2,37 @@
   "schemaVersion": 2,
   "date": "2026-08-16",
   "stories": [
+{
+      "id": "2026-08-16-v49893",
+      "visualNovelID": "v49893",
+      "accessibilityTitle": {
+        "default": "妹相随～黑白世界的缤纷冒险～",
+        "zh-Hant": "妹相隨～黑白世界的繽紛冒險～",
+        "ja": "妹！せいかつ～ファンタジー～",
+        "ko": "妹！せいかつ～ファンタジー～",
+        "en": "Living With Sister: Monochrome Fantasy"
+      },
+      "eyebrow": {
+        "default": "开发者推荐",
+        "zh-Hant": "開發者推薦",
+        "ja": "開発者おすすめ",
+        "ko": "개발자 추천",
+        "en": "Developer's Pick"
+      },
+      "description": {
+        "default": "我高中上信息课的时候偷偷玩这个（真的）",
+        "zh-Hant": "我高中上資訊課的時候偷偷玩這個（真的）",
+        "ja": "高校の情報の授業中、こっそりこれをプレイしてました（本当です）",
+        "ko": "고등학교 정보 수업 시간에 몰래 이걸 했습니다(진짜예요).",
+        "en": "I secretly played this during computer class in high school (seriously)."
+      },
+      "image": {
+        "path": "images/2026-08-16/v49893.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      "related": []
+    },
     {
       "id": "2026-08-16-v57527",
       "visualNovelID": "v57527",
@@ -106,37 +137,6 @@
         "path": "images/2026-08-16/v67998.jpg",
         "width": 973,
         "height": 615
-      },
-      "related": []
-    },
-    {
-      "id": "2026-08-16-v49893",
-      "visualNovelID": "v49893",
-      "accessibilityTitle": {
-        "default": "妹相随～黑白世界的缤纷冒险～",
-        "zh-Hant": "妹相隨～黑白世界的繽紛冒險～",
-        "ja": "妹！せいかつ～ファンタジー～",
-        "ko": "妹！せいかつ～ファンタジー～",
-        "en": "Living With Sister: Monochrome Fantasy"
-      },
-      "eyebrow": {
-        "default": "开发者推荐",
-        "zh-Hant": "開發者推薦",
-        "ja": "開発者おすすめ",
-        "ko": "개발자 추천",
-        "en": "Developer's Pick"
-      },
-      "description": {
-        "default": "我高中上信息课的时候偷偷玩这个（真的）",
-        "zh-Hant": "我高中上資訊課的時候偷偷玩這個（真的）",
-        "ja": "高校の情報の授業中、こっそりこれをプレイしてました（本当です）",
-        "ko": "고등학교 정보 수업 시간에 몰래 이걸 했습니다(진짜예요).",
-        "en": "I secretly played this during computer class in high school (seriously)."
-      },
-      "image": {
-        "path": "images/2026-08-16/v49893.jpg",
-        "width": 1920,
-        "height": 1080
       },
       "related": []
     }
