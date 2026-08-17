@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-08-18",
+  "stories": [
+{
+      "id": "2026-08-17-v60488",
+      "visualNovelID": "v60488",
+      "accessibilityTitle": {
+        "default": "出发向星空的日子",
+        "zh-Hant": "出發向星空的日子",
+        "ja": "星天へ発つ日",
+        "ko": "星天へ発つ日",
+        "en": "Hoshizora e Tatsu Hi"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "——那一天，女孩重新织造了世界。",
+        "zh-Hant": "——那一天，女孩重新編織了世界。",
+        "ja": "――その日、少女は世界をもう一度織り直した。",
+        "ko": "——그날, 소녀는 세계를 다시 짜냈다.",
+        "en": "——On that day, the girl rewove the fabric of the world."
+      },
+      "releaseDate": {
+        "default": "2026年8月16日",
+        "zh-Hant": "2026年8月16日",
+        "ja": "2026年8月16日",
+        "ko": "2026년 8월 16일",
+        "en": "August 16, 2026"
+      },
+      "image": {
+        "path": "images/2026-08-17/v60488.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-17-v67848",
+      "visualNovelID": "v67848",
+      "accessibilityTitle": {
+        "default": "小早川是Soulslike",
+        "zh-Hant": "小早川是Soulslike",
+        "ja": "小早川さんはソウルライク",
+        "ko": "小早川さんはソウルライク",
+        "en": "Kobayakawa-san wa Soulslike"
+      },
+      "eyebrow": {
+        "default": "最近发行",
+        "zh-Hant": "最近發行",
+        "ja": "最近発売",
+        "ko": "최근 출시",
+        "en": "New Release"
+      },
+      "description": {
+        "default": "与喜欢的女孩子的对话，要用死来记住。",
+        "zh-Hant": "與喜歡的女孩子的對話，要用死來記住。",
+        "ja": "好きな女子との会話は、死んで覚える。",
+        "ko": "좋아하는 여자아이와의 대화는 죽어서 기억한다.",
+        "en": "To remember conversations with girls you like, you have to die."
+      },
+      "image": {
+        "path": "images/2026-08-17/v67848.jpg",
+        "width": 1024,
+        "height": 576
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-17-v10",
+      "visualNovelID": "v10",
+      "accessibilityTitle": {
+        "default": "水仙",
+        "zh-Hant": "narcissu",
+        "ja": "narcissu",
+        "ko": "narcissu",
+        "en": "narcissu"
+      },
+      "eyebrow": {
+        "default": "开发者推荐",
+        "zh-Hant": "開發者推薦",
+        "ja": "開発者おすすめ",
+        "ko": "개발자 추천",
+        "en": "Developer's Pick"
+      },
+      "description": {
+        "default": "这个也是在学校机房偷偷玩的，上课玩真的是太沉浸了，现在放假有点无法静下来玩了。",
+        "zh-Hant": "這個也是在學校電腦教室偷偷玩的，上課玩真的太沉浸了，現在放假反而有點靜不下心來玩了。",
+        "ja": "これも学校のパソコン室でこっそり遊んでました。授業中に遊ぶと本当に没入できたのに、今は休みで、かえって落ち着いて遊べません。",
+        "ko": "이것도 학교 컴퓨터실에서 몰래 플레이했어요. 수업 시간에 하면 정말 몰입됐는데, 지금은 방학이라 오히려 차분히 플레이하기가 좀 어렵네요.",
+        "en": "I secretly played this in the school computer lab too. It was incredibly immersive during class, but now that it's vacation, I can't quite settle down enough to play it."
+      },
+      "image": {
+        "path": "images/2026-08-17/v10.jpg",
+        "width": 637,
+        "height": 898
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-16-v60331",
+      "visualNovelID": "v60331",
+      "accessibilityTitle": {
+        "default": "融化的风花与白兔",
+        "zh-Hant": "融化的風花與白兔",
+        "ja": "とける風花とシロうさぎ",
+        "ko": "とける風花とシロうさぎ",
+        "en": "Tokeru Fuuka to Shiro Usagi"
+      },
+      "eyebrow": {
+        "default": "最近发行",
+        "zh-Hant": "最近發行",
+        "ja": "最近発売",
+        "ko": "최근 출시",
+        "en": "New Release"
+      },
+      "description": {
+        "default": "还没玩，但是《星白》是我入坑作。",
+        "zh-Hant": "還沒玩，但《星空列車與白的旅行》是讓我入坑的作品。",
+        "ja": "まだプレイしていませんが、『星空鉄道とシロの旅』がきっかけでビジュアルノベルにハマりました。",
+        "ko": "아직 플레이해 보진 않았지만, 《별하늘 철도와 시로의 여행》이 제 입문작이었어요.",
+        "en": "I haven't played it yet, but Hoshizora Tetsudou to Shiro no Tabi was my gateway visual novel."
+      },
+      "image": {
+        "path": "images/2026-08-17/v60331.jpg",
+        "width": 1200,
+        "height": 849
+      },
+      "related": []
+    }
+  ]
+}
