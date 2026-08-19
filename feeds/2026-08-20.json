@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-08-20",
+  "stories": [
+{
+      "id": "2026-08-19-v52743",
+      "visualNovelID": "v52743",
+      "accessibilityTitle": {
+        "default": "井域：喀洛之血",
+        "zh-Hant": "井域：喀洛之血",
+        "ja": "世界の井戸：カーロの血筋",
+        "ko": "The World Well: Blood of Caro",
+        "en": "The World Well: Blood of Caro"
+      },
+      "eyebrow": {
+        "default": "最近发行",
+        "zh-Hant": "最近發行",
+        "ja": "最近発売",
+        "ko": "최근 출시",
+        "en": "New Release"
+      },
+      "description": {
+        "default": "关于血、记忆与反抗的故事。",
+        "zh-Hant": "關於血、記憶與反抗的故事。",
+        "ja": "血と記憶、そして反抗の物語。",
+        "ko": "피와 기억, 그리고 저항의 이야기.",
+        "en": "Tale of Blood, Memory, and Defiance."
+      },
+      "image": {
+        "path": "images/2026-08-19/v52743.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-19-v53726",
+      "visualNovelID": "v53726",
+      "accessibilityTitle": {
+        "default": "世纪末之诗",
+        "ja": "世紀末之詩",
+        "en": "Seikimatsu no Shi"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "世纪末的预言余烬里，写下最后一首并非恋爱的诗。",
+        "zh-Hant": "世紀末的預言餘燼裡，寫下最後一首並非戀愛的詩。",
+        "ja": "世紀末の予言の残り火の中、最後に恋ではない詩を書き記す。",
+        "ko": "세기말 예언의 잿불 속에서, 마지막으로 사랑이 아닌 시 한 편을 써 내려간다.",
+        "en": "Amid the embers of a fin-de-siècle prophecy, one final poem is written—not of love."
+      },
+      "releaseDate": {
+        "default": "2026（试玩版已发行）",
+        "zh-Hant": "2026（體驗版已發行）",
+        "ja": "2026年（体験版配信中）",
+        "ko": "2026년(체험판 출시 완료)",
+        "en": "2026 (Demo Available)"
+      },
+      "image": {
+        "path": "images/2026-08-19/v53726.jpg",
+        "width": 1248,
+        "height": 1768
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-19-v59003",
+      "visualNovelID": "v59003",
+      "accessibilityTitle": {
+        "default": "夜的名字",
+        "ja": "夜の名前"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "完全不同的我们，在同一个地方，沉迷于同一事物的那段时光——",
+        "zh-Hant": "完全不同的我們，在同一個地方，沉迷於同一事物的那段時光——",
+        "ja": "全然違うわたしたち、同じ場所で、同じものに夢中になっていたあの頃——",
+        "ko": "전혀 다른 우리가 같은 곳에서 같은 것에 빠져 있던 그 시절——",
+        "en": "Though we were completely different, we spent those days in the same place, absorbed in the same thing—"
+      },
+      "releaseDate": {
+        "default": "2026",
+        "zh-Hant": "2026",
+        "ja": "2026",
+        "ko": "2026",
+        "en": "2026"
+      },
+      "image": {
+        "path": "images/2026-08-19/v59003.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-19-v67479",
+      "groupID": "relate-2026-08-19",
+      "visualNovelID": "v67479",
+      "accessibilityTitle": {
+        "default": "灵异横丁的暑假",
+        "zh-Hant": "靈異橫丁的暑假",
+        "ja": "あやかし横丁の夏休み",
+        "ko": "あやかし横丁の夏休み",
+        "en": "Ayakashi Yokochou no Natsuyasumi"
+      },
+      "eyebrow": {
+        "default": "最近发行",
+        "zh-Hant": "最近發行",
+        "ja": "最近発売",
+        "ko": "최근 출시",
+        "en": "New Release"
+      },
+      "description": {
+        "default": "解决灵异事件，让夏日祭圆满结束吧！",
+        "zh-Hant": "解決靈異事件，讓夏日祭圓滿結束吧！",
+        "ja": "あやかし事件を解決して、夏祭りを成功させよう！",
+        "ko": "요괴 사건을 해결하고 여름 축제를 성공적으로 마무리하자!",
+        "en": "Solve the supernatural incidents and make the summer festival a success!"
+      },
+      "image": {
+        "path": "images/2026-08-19/v67479.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      "related": []
+    },
+{
+      "id": "2026-08-19-v41753",
+      "groupID": "relate-2026-08-19",
+      "visualNovelID": "v41753",
+      "accessibilityTitle": {
+        "default": "初音未来：缤纷舞台",
+        "zh-Hant": "世界計畫 繽紛舞台！feat. 初音未來",
+        "ja": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
+        "ko": "프로젝트 세카이 컬러풀 스테이지! feat. 하츠네 미쿠",
+        "en": "HATSUNE MIKU: COLORFUL STAGE!"
+      },
+      "eyebrow": {
+        "default": "更多来自Colorful Palette",
+        "zh-Hant": "更多來自Colorful Palette",
+        "ja": "Colorful Paletteからもっと",
+        "ko": "Colorful Palette의 소프트의 더 많은 작품",
+        "en": "More from Colorful Palette"
+      },
+      "description": {
+        "default": "未命名歌曲。",
+        "zh-Hant": "未命名歌曲。",
+        "ja": "名もなき歌。",
+        "ko": "이름 없는 노래.",
+        "en": "Untitled Song."
+      },
+      "image": {
+        "path": "images/2026-08-19/v41753.jpg",
+        "width": 528,
+        "height": 704
+      },
+      "related": []
+    }
+  ]
+}
