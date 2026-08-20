@@ -56,9 +56,9 @@
       "description": {
         "default": "“请让我成为人类。”",
         "zh-Hant": "「請讓我成為人類。」",
-        "ja": "私を人間にしてください。",
-        "ko": "저를 인간으로 만들어 주세요.",
-        "en": "Please make me human."
+        "ja": "「私を人間にしてください。」",
+        "ko": "“저를 인간으로 만들어 주세요.”",
+        "en": "“Please make me human.”"
       },
       "releaseDate": {
         "default": "2026年8月27日",
