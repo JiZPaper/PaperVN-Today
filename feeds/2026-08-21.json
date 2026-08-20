@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-08-21",
+  "stories": [
+    {
+      "id": "2026-08-21-v57718",
+      "visualNovelID": "v57718",
+      "accessibilityTitle": {
+        "default": "Putrika 2nd.cut:For the Exquisite Attire",
+        "ja": "プトリカ 2nd.cut:For the Exquisite Attire",
+        "en": "Putrika 2nd.cut:For the Exquisite Attire"
+      },
+      "eyebrow": {
+        "default": "最近发行",
+        "zh-Hant": "最近發行",
+        "ja": "最近発売",
+        "ko": "최근 출시",
+        "en": "New Release"
+      },
+      "description": {
+        "default": "“你愿意杀了我吗？”",
+        "zh-Hant": "「你願意殺了我嗎？」",
+        "ja": "「私を殺していただけますか？」",
+        "ko": "저를 죽여 주시겠어요?",
+        "en": "Would you be so kind as to kill me?"
+      },
+      "releaseDate": {
+        "default": "2026年6月5日",
+        "zh-Hant": "2026年6月5日",
+        "ja": "2026年6月5日",
+        "ko": "2026년 6월 5일",
+        "en": "June 5, 2026"
+      },
+      "image": {
+        "path": "images/2026-08-21/v57718.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-21-v52780",
+      "visualNovelID": "v52780",
+      "accessibilityTitle": {
+        "default": "COCORO",
+        "ja": "COCORO",
+        "en": "COCORO"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "请让我成为人类。",
+        "zh-Hant": "請讓我成為人類。",
+        "ja": "私を人間にしてください。",
+        "ko": "저를 인간으로 만들어 주세요.",
+        "en": "Please make me human."
+      },
+      "releaseDate": {
+        "default": "2026年8月27日",
+        "zh-Hant": "2026年8月27日",
+        "ja": "2026年8月27日",
+        "ko": "2026년 8월 27일",
+        "en": "August 27, 2026"
+      },
+      "image": {
+        "path": "images/2026-08-21/v52780.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-21-v17632",
+      "visualNovelID": "v17632",
+      "accessibilityTitle": {
+        "default": "Koikata: How Our Love Grows",
+        "zh-Hant": "恋する気持ちのかさねかた",
+        "ja": "恋する気持ちのかさねかた",
+        "ko": "Koi Suru Kimochi no Kasanekata",
+        "en": "Koikata: How Our Love Grows"
+      },
+      "eyebrow": {
+        "default": "你知道吗",
+        "zh-Hant": "你知道嗎",
+        "ja": "ご存じですか",
+        "ko": "알고 계셨나요",
+        "en": "Did You Know"
+      },
+      "description": {
+        "default": "旧校舍终将合为一处，她们却各自守着一段不愿结束的日常。",
+        "zh-Hant": "舊校舍終將合為一處，她們卻各自守著一段不願結束的日常。",
+        "ja": "古い校舎はいずれひとつになるが、彼女たちはそれぞれ終わってほしくない日常を守っている。",
+        "ko": "오래된 학교 건물은 하나로 합쳐지지만, 소녀들은 저마다 끝나지 않기를 바라는 일상을 지켜 나간다.",
+        "en": "The old school buildings will become one, yet each girl holds on to a daily life she does not want to end."
+      },
+      "releaseDate": {
+        "default": "2015年11月27日",
+        "zh-Hant": "2015年11月27日",
+        "ja": "2015年11月27日",
+        "ko": "2015년 11월 27일",
+        "en": "November 27, 2015"
+      },
+      "image": {
+        "path": "images/2026-08-21/v17632.jpg",
+        "width": 900,
+        "height": 1273
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-21-v66645",
+      "visualNovelID": "v66645",
+      "accessibilityTitle": {
+        "default": "等待复仇日",
+        "zh-Hant": "等待復仇日",
+        "en": "The Day of Revenge"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "复仇住进一座鬼屋，她能否在那里找到新的归处？",
+        "zh-Hant": "復仇住進一座鬼屋，她能否在那裡找到新的歸處？",
+        "ja": "復讐が幽霊屋敷に住みついたとき、彼女はそこで新たな居場所を見つけられるのか？",
+        "ko": "복수가 유령의 집에 깃든 순간, 그녀는 그곳에서 새로운 안식처를 찾을 수 있을까?",
+        "en": "When revenge moves into a haunted house, can she find a new home there?"
+      },
+      "releaseDate": {
+        "default": "2026年8月28日",
+        "zh-Hant": "2026年8月28日",
+        "ja": "2026年8月28日",
+        "ko": "2026년 8월 28일",
+        "en": "August 28, 2026"
+      },
+      "image": {
+        "path": "images/2026-08-21/v66645.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    }
+  ]
+}
