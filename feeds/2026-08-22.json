@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-08-22",
+  "stories": [
+    {
+      "id": "2026-08-22-v58103",
+      "visualNovelID": "v58103",
+      "accessibilityTitle": {
+        "default": "薛定谔的电话",
+        "zh-Hant": "薛丁格的電話",
+        "ja": "シュレディンガーズ・コール",
+        "ko": "슈뢰딩거의 콜",
+        "en": "Schrödinger's Call"
+      },
+      "eyebrow": {
+        "default": "最近发行",
+        "zh-Hant": "最近發行",
+        "ja": "最近発売",
+        "ko": "최근 출시",
+        "en": "New Release"
+      },
+      "description": {
+        "default": "世界沉默以后，电话那端仍有人等待最后一次倾听。",
+        "zh-Hant": "世界沉默之後，電話那端仍有人等待最後一次傾聽。",
+        "ja": "世界が沈黙したあとも、電話の向こうでは最後に耳を傾けてくれる人を待っている。",
+        "ko": "세상이 침묵한 뒤에도, 전화기 너머에는 마지막으로 귀 기울여 줄 사람을 기다리는 이가 있다.",
+        "en": "Even after the world falls silent, someone on the other end still waits to be heard one last time."
+      },
+      "image": {
+        "path": "images/2026-08-22/v58103.jpg",
+        "width": 300,
+        "height": 450
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-22-v55286",
+      "visualNovelID": "v55286",
+      "accessibilityTitle": {
+        "default": "纸房子",
+        "zh-Hant": "紙房子",
+        "ja": "紙房子",
+        "ko": "종이집",
+        "en": "Paper House"
+      },
+      "eyebrow": {
+        "default": "冷门作品",
+        "zh-Hant": "冷門作品",
+        "ja": "隠れた名作",
+        "ko": "숨은 작품",
+        "en": "Hidden Gem"
+      },
+      "description": {
+        "default": "那扇新门后没有她期待的自由。",
+        "zh-Hant": "那扇新門後沒有她期待的自由。",
+        "ja": "その新しい扉の向こうに、彼女が期待した自由はなかった。",
+        "ko": "그 새 문 너머에는 그녀가 기대한 자유가 없었다.",
+        "en": "Beyond that new door, there was no freedom waiting for her."
+      },
+      "image": {
+        "path": "images/2026-08-22/v55286.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-22-v6656",
+      "visualNovelID": "v6656",
+      "accessibilityTitle": {
+        "default": "死神与少女",
+        "zh-Hant": "死神與少女",
+        "ja": "死神と少女",
+        "ko": "사신과 소녀",
+        "en": "Shinigami to Shoujo"
+      },
+      "eyebrow": {
+        "default": "经典作品",
+        "zh-Hant": "經典作品",
+        "ja": "名作",
+        "ko": "명작",
+        "en": "Classic"
+      },
+      "description": {
+        "default": "“如果你没有名字，那就借天空的颜色叫你‘苍’吧。”",
+        "zh-Hant": "「如果你沒有名字，那就借天空的顏色叫你『蒼』吧。」",
+        "ja": "「名前がないなら、空の色から取って『蒼』と呼びましょう。」",
+        "ko": "“이름이 없다면 하늘의 색을 빌려 ‘아오’라고 부를게요.”",
+        "en": "“If you have no name, I'll call you ‘Ao,’ after the color of the sky.”"
+      },
+      "image": {
+        "path": "images/2026-08-22/v6656.jpg",
+        "width": 726,
+        "height": 1200
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-22-v4936",
+      "visualNovelID": "v4936",
+      "accessibilityTitle": {
+        "default": "紫影的索纳尼尔～何等美好的记忆～",
+        "zh-Hant": "紫影的索納尼爾～何等美好的記憶～",
+        "ja": "紫影のソナーニル　～What a beautiful memories～",
+        "ko": "보랏빛 그림자의 소나닐 ~What a beautiful memories~",
+        "en": "Sona-Nyl of the Violet Shadows ~What Beautiful Memories~"
+      },
+      "eyebrow": {
+        "default": "经典作品",
+        "zh-Hant": "經典作品",
+        "ja": "名作",
+        "ko": "명작",
+        "en": "Classic"
+      },
+      "description": {
+        "default": "她不知道塔的尽头有什么，只知道自己必须抵达那里。",
+        "zh-Hant": "她不知道塔的盡頭有什麼，只知道自己必須抵達那裡。",
+        "ja": "塔の果てに何があるのか、彼女は知らない。ただ、そこへ辿り着かなければならない。",
+        "ko": "탑의 끝에 무엇이 있는지 그녀는 모른다. 다만 그곳에 반드시 도착해야 한다는 것만 안다.",
+        "en": "She does not know what lies at the end of the tower, only that she must reach it."
+      },
+      "image": {
+        "path": "images/2026-08-22/v4936.jpg",
+        "width": 337,
+        "height": 450
+      },
+      "related": []
+    }
+  ]
+}
