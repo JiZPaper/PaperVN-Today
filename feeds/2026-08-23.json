@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-08-23",
+  "stories": [
+    {
+      "id": "2026-08-23-v66644",
+      "visualNovelID": "v66644",
+      "accessibilityTitle": {
+        "default": "溺于昨日之海",
+        "zh-Hant": "溺於昨日之海",
+        "en": "Drown in Yesterday's Sea"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "当海灵向她伸手，昨日的秘密开始涨潮。",
+        "zh-Hant": "當海靈向她伸手，昨日的秘密開始漲潮。",
+        "ja": "海の精霊が彼女に手を差し伸べたとき、昨日の秘密が満ちていく。",
+        "ko": "바다의 정령이 그녀에게 손을 내밀자, 어제의 비밀이 밀려오기 시작한다.",
+        "en": "When the sea spirit reaches for her, the secrets of yesterday begin to rise with the tide."
+      },
+      "releaseDate": {
+        "default": "2026年8月28日",
+        "zh-Hant": "2026年8月28日",
+        "ja": "2026年8月28日",
+        "ko": "2026년 8월 28일",
+        "en": "August 28, 2026"
+      },
+      "image": {
+        "path": "images/2026-08-23/v66644.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-23-v25616",
+      "visualNovelID": "v25616",
+      "accessibilityTitle": {
+        "default": "黄昏旅店",
+        "zh-Hant": "黃昏旅店",
+        "ja": "誰ソ彼ホテル",
+        "ko": "황혼호텔",
+        "en": "Tasokare Hotel"
+      },
+      "eyebrow": {
+        "default": "最近动画化",
+        "zh-Hant": "最近動畫化",
+        "ja": "最近アニメ化",
+        "ko": "최근 애니메이션화",
+        "en": "Recently Animated"
+      },
+      "description": {
+        "default": "在没有明天的旅店里，每个房间都藏着一段未完的告别。",
+        "zh-Hant": "在沒有明天的旅店裡，每個房間都藏著一段未完的告別。",
+        "ja": "明日のないホテルで、すべての部屋に終わっていない別れが隠されている。",
+        "ko": "내일이 없는 호텔에서, 모든 방에는 끝나지 않은 이별이 숨겨져 있다.",
+        "en": "In a hotel with no tomorrow, every room hides an unfinished farewell."
+      },
+      "image": {
+        "path": "images/2026-08-23/v25616.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-23-v50574",
+      "visualNovelID": "v50574",
+      "accessibilityTitle": {
+        "default": "茜色",
+        "zh-Hant": "茜色",
+        "ja": "茜色",
+        "en": "Qianse"
+      },
+      "eyebrow": {
+        "default": "冷门作品",
+        "zh-Hant": "冷門作品",
+        "ja": "隠れた名作",
+        "ko": "숨은 작품",
+        "en": "Hidden Gem"
+      },
+      "description": {
+        "default": "如果那时再勇敢一点，结局会不会不一样？",
+        "zh-Hant": "如果那時再勇敢一點，結局會不會不一樣？",
+        "ja": "あのとき、もう少し勇気があったなら、結末は変わっていたのだろうか？",
+        "ko": "그때 조금만 더 용감했다면, 결말은 달라졌을까?",
+        "en": "If only we had been a little braver then, would the ending have been different?"
+      },
+      "image": {
+        "path": "images/2026-08-23/v50574.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-23-v56364",
+      "visualNovelID": "v56364",
+      "accessibilityTitle": {
+        "default": "终天教团",
+        "zh-Hant": "終天教團",
+        "ja": "終天教団",
+        "ko": "종천교단",
+        "en": "SHUTEN ORDER"
+      },
+      "eyebrow": {
+        "default": "最近发行",
+        "zh-Hant": "最近發行",
+        "ja": "最近発売",
+        "ko": "최근 출시",
+        "en": "New Release"
+      },
+      "description": {
+        "default": "世界只剩168天，而她醒来时已经失去了所有记忆。",
+        "zh-Hant": "世界只剩168天，而她醒來時已經失去了所有記憶。",
+        "ja": "世界の終わりまで残り168日、彼女が目覚めたとき、すべての記憶は失われていた。",
+        "ko": "세상에 남은 시간은 168일, 그녀가 눈을 떴을 때 모든 기억을 잃고 있었다.",
+        "en": "The world has 168 days left, and she wakes with no memory of who she is."
+      },
+      "image": {
+        "path": "images/2026-08-23/v56364.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    }
+  ]
+}
