@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-08-24",
+  "stories": [
+    {
+      "id": "2026-08-24-v54933",
+      "visualNovelID": "v54933",
+      "accessibilityTitle": {
+        "default": "心象天仪本线 ~Per aspera ad astra~",
+        "zh-Hant": "心象天儀本線 ~Per aspera ad astra~",
+        "ja": "心象天儀本線 ~Per aspera ad astra~",
+        "ko": "심상천의 본선 ~Per aspera ad astra~",
+        "en": "Xinxiang Tianyi Benxian ~Per aspera ad astra~"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "列车驶向星火深处，她要追上被献祭的愿望。",
+        "zh-Hant": "列車駛向星火深處，她要追上被獻祭的願望。",
+        "ja": "列車は星火の奥へ進み、彼女は捧げられた願いを追う。",
+        "ko": "열차는 별빛의 심연으로 향하고, 그녀는 바쳐진 소원을 쫓는다.",
+        "en": "The train heads into the heart of the stars, and she must catch up with the wishes that were sacrificed."
+      },
+      "releaseDate": {
+        "default": "2026年8月28日",
+        "zh-Hant": "2026年8月28日",
+        "ja": "2026年8月28日",
+        "ko": "2026년 8월 28일",
+        "en": "August 28, 2026"
+      },
+      "image": {
+        "path": "images/2026-08-24/v54933.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-24-v58573",
+      "visualNovelID": "v58573",
+      "accessibilityTitle": {
+        "default": "The Goddess Of Tears ~Restoration~",
+        "zh-Hant": "The Goddess Of Tears ~Restoration~",
+        "ja": "The Goddess Of Tears ～Restoration～",
+        "ko": "The Goddess Of Tears ~Restoration~",
+        "en": "The Goddess Of Tears ~Restoration~"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "圣女被当作王权的容器，而战火正逼她重新选择命运。",
+        "zh-Hant": "聖女被當作王權的容器，而戰火正逼她重新選擇命運。",
+        "ja": "聖女は王権の器として扱われ、戦火が彼女に運命を選び直すよう迫る。",
+        "ko": "성녀는 왕권의 그릇으로 취급되고, 전쟁의 불길은 그녀에게 운명을 다시 선택하라고 몰아붙인다.",
+        "en": "The holy maiden is treated as a vessel for royal power, while war forces her to choose her fate anew."
+      },
+      "releaseDate": {
+        "default": "2026年12月25日",
+        "zh-Hant": "2026年12月25日",
+        "ja": "2026年12月25日",
+        "ko": "2026년 12월 25일",
+        "en": "December 25, 2026"
+      },
+      "image": {
+        "path": "images/2026-08-24/v58573.jpg",
+        "width": 1200,
+        "height": 675
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-24-v50081",
+      "visualNovelID": "v50081",
+      "accessibilityTitle": {
+        "default": "种摘之歌",
+        "zh-Hant": "種摘之歌",
+        "ja": "たねつみの歌",
+        "ko": "타네츠미의 노래",
+        "en": "Seedsow Lullaby"
+      },
+      "eyebrow": {
+        "default": "最近发行",
+        "zh-Hant": "最近發行",
+        "ja": "最近発売",
+        "ko": "최근 출시",
+        "en": "New Release"
+      },
+      "description": {
+        "default": "时间终于有了家的形状。",
+        "zh-Hant": "時間終於有了家的形狀。",
+        "ja": "三人の少女が同じ旅路で出会うとき、時間はついに家の形を得る。",
+        "ko": "세 소녀가 같은 여정에서 만날 때, 시간은 마침내 집의 모습을 갖는다.",
+        "en": "When three girls meet on the same journey, time finally takes the shape of home."
+      },
+      "image": {
+        "path": "images/2026-08-24/v50081.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-24-v32274",
+      "visualNovelID": "v32274",
+      "accessibilityTitle": {
+        "default": "ghostpia",
+        "zh-Hant": "ghostpia",
+        "ja": "ghostpia",
+        "ko": "ghostpia",
+        "en": "ghostpia"
+      },
+      "eyebrow": {
+        "default": "冷门作品",
+        "zh-Hant": "冷門作品",
+        "ja": "隠れた名作",
+        "ko": "숨은 작품",
+        "en": "Hidden Gem"
+      },
+      "description": {
+        "default": "当永生成为日常，遗忘反而成了最难摆脱的幽灵。",
+        "zh-Hant": "當永生成為日常，遺忘反而成了最難擺脫的幽靈。",
+        "ja": "永遠の命が日常になると、忘却こそが最も逃れがたい幽霊になる。",
+        "ko": "영생이 일상이 되면, 망각이 오히려 가장 벗어나기 힘든 유령이 된다.",
+        "en": "When immortality becomes everyday life, forgetting becomes the ghost that is hardest to escape."
+      },
+      "image": {
+        "path": "images/2026-08-24/v32274.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    }
+  ]
+}
