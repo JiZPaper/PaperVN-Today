@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-27",
+  "stories": [
+    {
+      "id": "2026-08-27-v65042",
+      "visualNovelID": "v65042",
+      "accessibilityTitle": {
+        "default": "乐园追放 –The Stellar Angel–",
+        "zh-Hant": "樂園追放 –The Stellar Angel–",
+        "ja": "楽園追放 –The Stellar Angel–",
+        "ko": "낙원추방 –The Stellar Angel–",
+        "en": "Expelled from Paradise –The Stellar Angel–"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "废土、巨虫与一份禁忌档案。",
+        "zh-Hant": "廢土、巨蟲與一份禁忌檔案。",
+        "ja": "荒野、巨大な虫、そして一つの禁断のファイル。",
+        "ko": "황무지, 거대 벌레, 그리고 하나의 금단의 파일.",
+        "en": "A wasteland, giant insects, and one forbidden file."
+      },
+      "releaseDate": {
+        "default": "2026年11月25日",
+        "zh-Hant": "2026年11月25日",
+        "ja": "2026年11月25日",
+        "ko": "2026년 11월 25일",
+        "en": "November 25, 2026"
+      },
+      "image": {
+        "path": "images/2026-08-27/v65042.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-27-v58635",
+      "visualNovelID": "v58635",
+      "accessibilityTitle": {
+        "default": "散落的星球",
+        "zh-Hant": "散落的星球",
+        "ja": "散るプラネット",
+        "ko": "흩어지는 플래닛",
+        "en": "Chill Planet"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "旅途越漫长，明天越像一份礼物。",
+        "zh-Hant": "旅途越漫長，明天越像一份禮物。",
+        "ja": "旅が長くなるほど、明日は贈り物のように思えてくる。",
+        "ko": "여정이 길어질수록 내일은 선물처럼 느껴진다.",
+        "en": "The longer the journey, the more tomorrow feels like a gift."
+      },
+      "releaseDate": {
+        "default": "2027年",
+        "zh-Hant": "2027年",
+        "ja": "2027年",
+        "ko": "2027년",
+        "en": "2027"
+      },
+      "image": {
+        "path": "images/2026-08-27/v58635.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-27-v49056",
+      "visualNovelID": "v49056",
+      "accessibilityTitle": {
+        "default": "丽露娅与夏夏的纯白谎言",
+        "zh-Hant": "麗露婭與夏夏的純白謊言",
+        "ja": "リルヤとナツカの純白な嘘",
+        "ko": "릴리아와 나츠카의 순백의 거짓말",
+        "en": "Lilja and Natsuka: Painting Lies"
+      },
+      "eyebrow": {
+        "default": "冷门作品",
+        "zh-Hant": "冷門作品",
+        "ja": "隠れた作品",
+        "ko": "숨은 작품",
+        "en": "Hidden Gem"
+      },
+      "description": {
+        "default": "“从今天起，我来做你的眼睛和双腿。”",
+        "zh-Hant": "「從今天起，我來做你的眼睛和雙腿。」",
+        "ja": "「今日から、私があなたの目と足になる！」",
+        "ko": "“오늘부터 내가 너의 눈과 다리가 될게!”",
+        "en": "“From this day forward, I'm going to become your new eyes and legs!”"
+      },
+      "image": {
+        "path": "images/2026-08-27/v49056.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-27-v33348",
+      "visualNovelID": "v33348",
+      "accessibilityTitle": {
+        "default": "圣女不死心",
+        "zh-Hant": "聖女不死心",
+        "ja": "ホーリーアンデッド",
+        "ko": "홀리 언데드",
+        "en": "Holy Undead"
+      },
+      "eyebrow": {
+        "default": "你知道吗",
+        "zh-Hant": "你知道嗎",
+        "ja": "知っていますか",
+        "ko": "알고 계셨나요",
+        "en": "Did You Know?"
+      },
+      "description": {
+        "default": "所有人都赞颂她的圣迹，只有她还惦记着稀有的不死素材。",
+        "zh-Hant": "所有人都讚頌她的聖蹟，只有她還惦記著稀有的不死素材。",
+        "ja": "誰もが彼女の聖なる偉業を讃える中、本人だけは今も希少なアンデッド素材のことを考えている。",
+        "ko": "모두가 그녀의 성스러운 업적을 찬양하지만, 정작 그녀는 희귀한 언데드 소재만 생각한다.",
+        "en": "Everyone praises her holy deeds, but she still longs for rare undead materials."
+      },
+      "image": {
+        "path": "images/2026-08-27/v33348.jpg",
+        "width": 800,
+        "height": 1090
+      },
+      "related": []
+    }
+  ]
+}
