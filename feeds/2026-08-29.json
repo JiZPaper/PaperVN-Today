@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-29",
+  "stories": [
+    {
+      "id": "2026-08-29-v60213",
+      "visualNovelID": "v60213",
+      "accessibilityTitle": {
+        "default": "主播少女的秘密账号迷宫",
+        "zh-Hant": "主播少女的秘密帳號迷宮",
+        "ja": "配信少女ノ裏垢迷宮",
+        "ko": "방송 소녀의 부계정 미궁",
+        "en": "The Streamer's Alt Account Labyrinth"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "匿名指控。",
+        "zh-Hant": "匿名指控。",
+        "ja": "匿名の告発。",
+        "ko": "익명의 고발.",
+        "en": "An anonymous accusation."
+      },
+      "releaseDate": {
+        "default": "2026年",
+        "zh-Hant": "2026年",
+        "ja": "2026年",
+        "ko": "2026년",
+        "en": "2026"
+      },
+      "image": {
+        "path": "images/2026-08-29/v60213.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-29-v38886",
+      "visualNovelID": "v38886",
+      "accessibilityTitle": {
+        "default": "梦灯花",
+        "zh-Hant": "夢燈花",
+        "ja": "夢灯華",
+        "ko": "몽등화",
+        "en": "Noctuary"
+      },
+      "eyebrow": {
+        "default": "冷门作品",
+        "zh-Hant": "冷門作品",
+        "ja": "隠れた作品",
+        "ko": "숨은 작품",
+        "en": "Hidden Gem"
+      },
+      "description": {
+        "default": "童话般的国度里，黑暗从不会提前敲门。",
+        "zh-Hant": "童話般的國度裡，黑暗從不會提前敲門。",
+        "ja": "おとぎ話のような国で、闇は決して予告なしに訪れる。",
+        "ko": "동화 같은 나라에서, 어둠은 결코 예고 없이 찾아온다.",
+        "en": "In a fairy-tale land, darkness never knocks before entering."
+      },
+      "image": {
+        "path": "images/2026-08-29/v38886.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-29-v31427",
+      "visualNovelID": "v31427",
+      "accessibilityTitle": {
+        "default": "永恒少女～堕落庭园的少女们～",
+        "zh-Hant": "永恆少女～墮落庭園的少女們～",
+        "ja": "エヴァーメイデン　～堕落の園の乙女たち～",
+        "ko": "에버 메이든 ~타락의 정원의 소녀들~",
+        "en": "Ever Maiden ~The Maidens of the Fallen Garden~"
+      },
+      "eyebrow": {
+        "default": "冷门作品",
+        "zh-Hant": "冷門作品",
+        "ja": "隠れた作品",
+        "ko": "숨은 작품",
+        "en": "Hidden Gem"
+      },
+      "description": {
+        "default": "门本不该开启，钟也不该响起。",
+        "zh-Hant": "門本不該開啟，鐘也不該鳴響。",
+        "ja": "扉は開くべきではなかった。鐘も鳴るべきではなかった。",
+        "ko": "문은 열려선 안 됐고, 종도 울려선 안 됐다.",
+        "en": "The gate was never meant to open, nor the bell to ring."
+      },
+      "image": {
+        "path": "images/2026-08-29/v31427.jpg",
+        "width": 704,
+        "height": 1000
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-29-v51437",
+      "visualNovelID": "v51437",
+      "accessibilityTitle": {
+        "default": "文字化化",
+        "zh-Hant": "文字化化",
+        "ja": "文字化化",
+        "ko": "호미시퍼",
+        "en": "Homicipher"
+      },
+      "eyebrow": {
+        "default": "冷门作品",
+        "zh-Hant": "冷門作品",
+        "ja": "隠れた作品",
+        "ko": "숨은 작품",
+        "en": "Hidden Gem"
+      },
+      "description": {
+        "default": "逃出去之前，先学会这里的语言。",
+        "zh-Hant": "逃出去之前，先學會這裡的語言。",
+        "ja": "逃げ出す前に、まずはここの言葉を覚えよう。",
+        "ko": "탈출하기 전에, 먼저 이곳의 언어부터 익혀야 한다.",
+        "en": "Before you escape, learn the language of this place."
+      },
+      "image": {
+        "path": "images/2026-08-29/v51437.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    }
+  ]
+}
