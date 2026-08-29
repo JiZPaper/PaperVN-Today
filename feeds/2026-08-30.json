@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-30",
+  "stories": [
+    {
+      "id": "2026-08-30-v19273",
+      "visualNovelID": "v19273",
+      "accessibilityTitle": {
+        "default": "SeaBed",
+        "zh-Hant": "SeaBed",
+        "ja": "SeaBed",
+        "ko": "SeaBed",
+        "en": "SeaBed"
+      },
+      "eyebrow": {
+        "default": "经典作品",
+        "zh-Hant": "經典作品",
+        "ja": "名作",
+        "ko": "명작",
+        "en": "Classic"
+      },
+      "description": {
+        "default": "幽灵吃掉了煎蛋。",
+        "zh-Hant": "幽靈吃掉了煎蛋。",
+        "ja": "幽霊が目玉焼きを食べた。",
+        "ko": "유령이 계란 프라이를 먹었다.",
+        "en": "The ghost ate the fried egg."
+      },
+      "image": {
+        "path": "images/2026-08-30/v19273.jpg",
+        "width": 3086,
+        "height": 4320
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-30-v7301",
+      "visualNovelID": "v7301",
+      "accessibilityTitle": {
+        "default": "白衣性恋爱症候群",
+        "zh-Hant": "白衣性戀愛症候群",
+        "ja": "白衣性恋愛症候群",
+        "ko": "백의성 연애 증후군",
+        "en": "Nurse Love Syndrome"
+      },
+      "eyebrow": {
+        "default": "经典作品",
+        "zh-Hant": "經典作品",
+        "ja": "名作",
+        "ko": "명작",
+        "en": "Classic"
+      },
+      "description": {
+        "default": "白色病房里，每个人都把没说出口的话藏在值班表后。",
+        "zh-Hant": "白色病房裡，每個人都把沒說出口的話藏在值班表後。",
+        "ja": "白い病棟で、誰もが言えなかった言葉を勤務表の裏に隠している。",
+        "ko": "하얀 병동에서 모두가 말하지 못한 말을 근무표 뒤에 숨긴다.",
+        "en": "In the white ward, everyone hides the words they never said behind the duty roster."
+      },
+      "image": {
+        "path": "images/2026-08-30/v7301.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-30-v34121",
+      "visualNovelID": "v34121",
+      "accessibilityTitle": {
+        "default": "提早绽放的黑百合",
+        "zh-Hant": "提早綻放的黑百合",
+        "ja": "早咲きのくろゆり",
+        "ko": "때 이른 검은 백합",
+        "en": "Black Lily's Tale"
+      },
+      "eyebrow": {
+        "default": "冷门作品",
+        "zh-Hant": "冷門作品",
+        "ja": "隠れた作品",
+        "ko": "숨은 작품",
+        "en": "Hidden Gem"
+      },
+      "description": {
+        "default": "有些喜欢不会说出口，只会让时间一遍遍重来。",
+        "zh-Hant": "有些喜歡不會說出口，只會讓時間一遍遍重來。",
+        "ja": "言葉にできない想いは、ただ時間を何度も繰り返させる。",
+        "ko": "말로 꺼내지 못한 마음은 그저 시간을 몇 번이고 되풀이하게 한다.",
+        "en": "Some feelings go unspoken and only make time repeat again and again."
+      },
+      "image": {
+        "path": "images/2026-08-30/v34121.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-30-v23230",
+      "visualNovelID": "v23230",
+      "accessibilityTitle": {
+        "default": "不知何时的memoraĵo",
+        "zh-Hant": "不知何時的memoraĵo",
+        "ja": "いつかのメモラージョ ～ことのはアムリラート～",
+        "en": "Distant Memoraĵo"
+      },
+      "eyebrow": {
+        "default": "你知道吗",
+        "zh-Hant": "你知道嗎",
+        "ja": "知っていますか",
+        "ko": "알고 계셨나요",
+        "en": "Did You Know?"
+      },
+      "description": {
+        "default": "听懂她没说出口的话。",
+        "zh-Hant": "聽懂她沒說出口的話。",
+        "ja": "彼女が口にしなかった言葉を、聞き取る。",
+        "ko": "그녀가 입 밖에 내지 않은 말을 알아듣는다.",
+        "en": "Understand the words she never said."
+      },
+      "image": {
+        "path": "images/2026-08-30/v23230.jpg",
+        "width": 411,
+        "height": 560
+      },
+      "related": []
+    }
+  ]
+}
