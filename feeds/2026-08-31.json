@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-08-31",
+  "stories": [
+    {
+      "id": "2026-08-31-v66098",
+      "visualNovelID": "v66098",
+      "accessibilityTitle": {
+        "default": "君をしってる、はずだった。",
+        "ja": "君をしってる、はずだった。",
+        "en": "I Thought I Knew You"
+      },
+      "eyebrow": {
+        "default": "最近发行",
+        "zh-Hant": "最近發行",
+        "ja": "最近発売",
+        "ko": "최근 출시",
+        "en": "New Release"
+      },
+      "description": {
+        "default": "“我知道你的秘密。”",
+        "zh-Hant": "「我知道你的秘密。」",
+        "ja": "「あなたの秘密を知ってる。」",
+        "ko": "“네 비밀을 알고 있어.”",
+        "en": "\"I know your secret.\""
+      },
+      "image": {
+        "path": "images/2026-08-31/v66098.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-31-v61285",
+      "visualNovelID": "v61285",
+      "accessibilityTitle": {
+        "default": "再来点百合吧 More☆Love Yuri",
+        "zh-Hant": "再來點百合吧 More☆Love Yuri",
+        "ja": "More☆Love Yuri",
+        "ko": "More☆Love Yuri",
+        "en": "More☆Love Yuri"
+      },
+      "eyebrow": {
+        "default": "最近发行",
+        "zh-Hant": "最近發行",
+        "ja": "最近発売",
+        "ko": "최근 출시",
+        "en": "New Release"
+      },
+      "description": {
+        "default": "镜头前是营业，镜头后是她们仍未说完的日常。",
+        "zh-Hant": "鏡頭前是營業，鏡頭後是她們仍未說完的日常。",
+        "ja": "カメラの前ではファンのために演じ、カメラの後ろではまだ終わらない二人の日常が続く。",
+        "ko": "카메라 앞에서는 팬들을 위해 연기하고, 카메라 뒤에서는 아직 끝나지 않은 두 사람의 일상이 이어진다.",
+        "en": "On camera, they play to the fans; off camera, their unfinished everyday life continues."
+      },
+      "image": {
+        "path": "images/2026-08-31/v61285.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-31-v61533",
+      "visualNovelID": "v61533",
+      "accessibilityTitle": {
+        "default": "けものティータイム",
+        "ja": "けものティータイム",
+        "en": "Kemono Teatime"
+      },
+      "eyebrow": {
+        "default": "冷门作品",
+        "zh-Hant": "冷門作品",
+        "ja": "隠れた作品",
+        "ko": "숨은 작품",
+        "en": "Hidden Gem"
+      },
+      "description": {
+        "default": "茶会终会散场，所以每一滴都要慢慢喝完。",
+        "zh-Hant": "茶會終會散場，所以每一滴都要慢慢喝完。",
+        "ja": "ティータイムはいつか終わるから、一滴ずつゆっくり味わおう。",
+        "ko": "티타임은 언젠가 끝나니, 한 방울씩 천천히 음미하자.",
+        "en": "Every tea party must end, so savor every last drop."
+      },
+      "image": {
+        "path": "images/2026-08-31/v61533.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-08-31-v12728",
+      "visualNovelID": "v12728",
+      "accessibilityTitle": {
+        "default": "滅び朽ちる世界に追憶の花束を",
+        "ja": "滅び朽ちる世界に追憶の花束を",
+        "en": "Horobi Kuchiru Sekai ni Tsuioku no Hanataba o"
+      },
+      "eyebrow": {
+        "default": "冷门作品",
+        "zh-Hant": "冷門作品",
+        "ja": "隠れた作品",
+        "ko": "숨은 작품",
+        "en": "Hidden Gem"
+      },
+      "description": {
+        "default": "每个人都只盛开一次，而时间从不回头看花。",
+        "zh-Hant": "每個人都只盛開一次，而時間從不回頭看花。",
+        "ja": "人は誰も一度しか咲かず、時は決して花を振り返らない。",
+        "ko": "사람은 누구나 단 한 번만 피어나고, 시간은 결코 꽃을 돌아보지 않는다.",
+        "en": "Everyone blooms only once, and time never looks back at the flowers."
+      },
+      "image": {
+        "path": "images/2026-08-31/v12728.jpg",
+        "width": 256,
+        "height": 192
+      },
+      "related": []
+    }
+  ]
+}
