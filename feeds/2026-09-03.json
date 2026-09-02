@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-03",
+  "stories": [
+    {
+      "id": "2026-09-03-v40946",
+      "visualNovelID": "v40946",
+      "accessibilityTitle": {
+        "default": "HAPPY SAIN† SHEOL ～亡者少女玛雅～",
+        "zh-Hant": "HAPPY SAIN† SHEOL ～亡者少女瑪雅～",
+        "ja": "HAPPY SAIN† SHEOL ～亡者少女マヤ～",
+        "en": "HAPPY SAIN† SHEOL ~Mouja Shoujo Maya~"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "死而复生的少女，带着一块自制派闯进圣所。",
+        "zh-Hant": "死而復生的少女，帶著一塊自製派闖進聖所。",
+        "ja": "死から蘇った少女が、自家製パイを手に聖所へ乗り込む。",
+        "ko": "죽음에서 되살아난 소녀가 수제 파이를 들고 성소에 뛰어든다.",
+        "en": "A girl returns from the dead and storms the sanctuary with a homemade pie."
+      },
+      "releaseDate": {
+        "default": "2026年12月",
+        "zh-Hant": "2026年12月",
+        "ja": "2026年12月",
+        "ko": "2026년 12월",
+        "en": "December 2026"
+      },
+      "image": {
+        "path": "images/2026-09-03/v40946.jpg",
+        "width": 256,
+        "height": 144
+      },
+      "related": []
+    },
+    {
+      "id": "2026-09-03-v56343",
+      "visualNovelID": "v56343",
+      "accessibilityTitle": {
+        "default": "久我山栞的死法手账",
+        "zh-Hant": "久我山栞的死法手帳",
+        "ja": "久我山栞の死様手帖",
+        "en": "Kugayama Shiori's Death Diary"
+      },
+      "eyebrow": {
+        "default": "最近发行",
+        "zh-Hant": "最近發行",
+        "ja": "最近発売",
+        "ko": "최근 출시",
+        "en": "New Release"
+      },
+      "description": {
+        "default": "记忆空白的少女，把每一次死亡都写成新的线索。",
+        "zh-Hant": "記憶空白的少女，把每一次死亡都寫成新的線索。",
+        "ja": "記憶を失った少女は、死ぬたびに新たな手がかりを書き残す。",
+        "ko": "기억을 잃은 소녀는 죽을 때마다 새로운 단서를 남긴다.",
+        "en": "A girl with no memories turns every death into a new clue."
+      },
+      "image": {
+        "path": "images/2026-09-03/v56343.jpg",
+        "width": 300,
+        "height": 450
+      },
+      "related": []
+    },
+    {
+      "id": "2026-09-03-v59601",
+      "visualNovelID": "v59601",
+      "accessibilityTitle": {
+        "default": "淀み海の溺れ唄",
+        "ja": "淀み海の溺れ唄",
+        "en": "Yodomi Umi no Obore Uta"
+      },
+      "eyebrow": {
+        "default": "冷门作品",
+        "zh-Hant": "冷門作品",
+        "ja": "隠れた作品",
+        "ko": "숨은 작품",
+        "en": "Hidden Gem"
+      },
+      "description": {
+        "default": "美丽像潮水，越靠近越让人无法呼吸。",
+        "zh-Hant": "美麗像潮水，越靠近越讓人無法呼吸。",
+        "ja": "美しさは潮のようで、近づくほど息ができなくなる。",
+        "ko": "아름다움은 밀물처럼, 다가갈수록 숨을 쉴 수 없게 한다.",
+        "en": "Beauty is like the tide: the closer you get, the harder it is to breathe."
+      },
+      "image": {
+        "path": "images/2026-09-03/v59601.jpg",
+        "width": 857,
+        "height": 1199
+      },
+      "related": []
+    },
+    {
+      "id": "2026-09-03-v98",
+      "visualNovelID": "v98",
+      "accessibilityTitle": {
+        "default": "アカイイト",
+        "ja": "アカイイト",
+        "en": "Akai Ito"
+      },
+      "eyebrow": {
+        "default": "经典作品",
+        "zh-Hant": "經典作品",
+        "ja": "名作",
+        "ko": "명작",
+        "en": "Classic"
+      },
+      "description": {
+        "default": "梦里的巨树和哭泣的女人，正在等她回到故乡。",
+        "zh-Hant": "夢裡的巨樹和哭泣的女人，正在等她回到故鄉。",
+        "ja": "夢の中の大樹と泣く女が、彼女の帰郷を待っている。",
+        "ko": "꿈속의 거대한 나무와 우는 여자가 그녀의 귀향을 기다린다.",
+        "en": "The great tree and the crying woman in her dream are waiting for her return home."
+      },
+      "image": {
+        "path": "images/2026-09-03/v98.jpg",
+        "width": 898,
+        "height": 1280
+      },
+      "related": []
+    }
+  ]
+}
