@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-08",
+  "stories": [
+    {
+      "id": "2026-09-08-v58268",
+      "visualNovelID": "v58268",
+      "accessibilityTitle": {
+        "default": "おわりのまえに",
+        "ja": "おわりのまえに",
+        "en": "Owari no Mae ni"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "驶向星海的列车，只为遗失记忆的人停站。",
+        "zh-Hant": "駛向星海的列車，只為遺失記憶的人停站。",
+        "ja": "星の海へ向かう列車は、記憶を失くした者のためだけに停まる。",
+        "ko": "별바다를 향해 달리는 열차는 기억을 잃은 이들을 위해서만 멈춘다.",
+        "en": "The train bound for the sea of stars stops only for those who have lost their memories."
+      },
+      "releaseDate": {
+        "default": "2026年",
+        "zh-Hant": "2026年",
+        "ja": "2026年",
+        "ko": "2026년",
+        "en": "2026"
+      },
+      "image": {
+        "path": "images/2026-09-08/v58268.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-09-08-v46543",
+      "visualNovelID": "v46543",
+      "accessibilityTitle": {
+        "default": "everlasting flowers",
+        "zh-Hant": "everlasting flowers",
+        "ja": "everlasting flowers",
+        "ko": "everlasting flowers",
+        "en": "everlasting flowers"
+      },
+      "eyebrow": {
+        "default": "冷门作品",
+        "zh-Hant": "冷門作品",
+        "ja": "隠れた作品",
+        "ko": "숨은 작품",
+        "en": "Hidden Gem"
+      },
+      "description": {
+        "default": "盛夏会结束，但有些花不必立刻凋谢。",
+        "zh-Hant": "盛夏會結束，但有些花不必立刻凋謝。",
+        "ja": "真夏は終わっても、すべての花がすぐに散るとは限らない。",
+        "ko": "한여름은 끝나지만, 어떤 꽃들은 당장 질 필요가 없다.",
+        "en": "Summer will end, but some flowers need not fade just yet."
+      },
+      "image": {
+        "path": "images/2026-09-08/v46543.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-09-08-v20877",
+      "visualNovelID": "v20877",
+      "accessibilityTitle": {
+        "default": "Dear My Abyss",
+        "zh-Hant": "Dear My Abyss",
+        "ja": "Dear My Abyss",
+        "ko": "Dear My Abyss",
+        "en": "Dear My Abyss"
+      },
+      "eyebrow": {
+        "default": "冷门作品",
+        "zh-Hant": "冷門作品",
+        "ja": "隠れた作品",
+        "ko": "숨은 작품",
+        "en": "Hidden Gem"
+      },
+      "description": {
+        "default": "一本不该打开的书，先替她打开了世界。",
+        "zh-Hant": "一本不該打開的書，先替她打開了世界。",
+        "ja": "開いてはいけない一冊の本が、彼女の世界を先に開いてしまった。",
+        "ko": "펼쳐서는 안 될 책 한 권이 먼저 그녀의 세계를 열어 버렸다.",
+        "en": "A book she should never have opened was the first to open up her world."
+      },
+      "image": {
+        "path": "images/2026-09-08/v20877.jpg",
+        "width": 256,
+        "height": 341
+      },
+      "related": []
+    },
+    {
+      "id": "2026-09-08-v6723",
+      "visualNovelID": "v6723",
+      "accessibilityTitle": {
+        "default": "CLOCK ZERO 〜終焉の一秒〜",
+        "ja": "CLOCK ZERO 〜終焉の一秒〜",
+        "en": "Clock Zero ~Shuuen no Ichibyou~"
+      },
+      "eyebrow": {
+        "default": "经典作品",
+        "zh-Hant": "經典作品",
+        "ja": "名作",
+        "ko": "명작",
+        "en": "Classic"
+      },
+      "description": {
+        "default": "钟表归零之前，她必须决定相信哪一个世界。",
+        "zh-Hant": "鐘錶歸零之前，她必須決定相信哪一個世界。",
+        "ja": "時計がゼロに戻る前に、彼女はどちらの世界を信じるか決めなければならない。",
+        "ko": "시계가 0으로 돌아가기 전에, 그녀는 어느 세계를 믿을지 결정해야 한다.",
+        "en": "Before the clock resets to zero, she must decide which world to believe."
+      },
+      "image": {
+        "path": "images/2026-09-08/v6723.jpg",
+        "width": 640,
+        "height": 887
+      },
+      "related": []
+    }
+  ]
+}
