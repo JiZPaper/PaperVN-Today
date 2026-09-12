@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-13",
+  "stories": [
+    {
+      "id": "2026-09-13-v8508",
+      "visualNovelID": "v8508",
+      "accessibilityTitle": {
+        "default": "屋上の百合霊さん",
+        "zh-Hant": "天台上的百合靈",
+        "ja": "屋上の百合霊さん",
+        "en": "Kindred Spirits on the Roof"
+      },
+      "eyebrow": {
+        "default": "经典作品",
+        "zh-Hant": "經典作品",
+        "ja": "名作",
+        "ko": "명작",
+        "en": "Classic"
+      },
+      "description": {
+        "default": "古老城堡遗址上，少女开始替两位幽灵寻找“第一次”。",
+        "zh-Hant": "古老城堡遺址上，少女開始替兩位幽靈尋找「第一次」。",
+        "ja": "古い城跡で、少女は二人の幽霊のために「初めて」を探し始める。",
+        "ko": "오래된 성터에서 소녀는 두 유령을 위해 ‘처음’을 찾기 시작한다.",
+        "en": "At an old castle ruin, a girl begins helping two ghosts search for their “firsts.”"
+      },
+      "image": {
+        "path": "images/2026-09-13/v8508.jpg",
+        "width": 411,
+        "height": 560
+      },
+      "related": []
+    },
+    {
+      "id": "2026-09-13-v54651",
+      "visualNovelID": "v54651",
+      "accessibilityTitle": {
+        "default": "This Winter of Ours",
+        "zh-Hant": "我們的冬日物語 - This Winter of Ours",
+        "ja": "This Winter of Ours",
+        "ko": "This Winter of Ours",
+        "en": "This Winter of Ours"
+      },
+      "eyebrow": {
+        "default": "冷门作品",
+        "zh-Hant": "冷門作品",
+        "ja": "隠れた作品",
+        "ko": "숨은 작품",
+        "en": "Hidden Gem"
+      },
+      "description": {
+        "default": "她在暴雪吞没草原时迷路，却遇见了另一个同样孤独的女孩。",
+        "zh-Hant": "她在暴雪吞沒草原時迷路，卻遇見了另一個同樣孤獨的女孩。",
+        "ja": "吹雪が草原を覆う中で道に迷った彼女は、同じように孤独な少女と出会う。",
+        "ko": "눈보라가 초원을 집어삼킬 때 길을 잃은 그녀는, 똑같이 외로운 소녀를 만난다.",
+        "en": "Lost as a blizzard swallows the grassland, she meets another girl just as lonely as she is."
+      },
+      "image": {
+        "path": "images/2026-09-13/v54651.jpg",
+        "width": 315,
+        "height": 250
+      },
+      "related": []
+    },
+    {
+      "id": "2026-09-13-v53634",
+      "visualNovelID": "v53634",
+      "accessibilityTitle": {
+        "default": "鼓手余命十日谭",
+        "zh-Hant": "鼓手餘命十日譚",
+        "ja": "鼓手余命十日譚",
+        "en": "Gushou Yuming Shi Ri Tan"
+      },
+      "eyebrow": {
+        "default": "经典作品",
+        "zh-Hant": "經典作品",
+        "ja": "名作",
+        "ko": "명작",
+        "en": "Classic"
+      },
+      "description": {
+        "default": "鼓手只剩十天的故事。",
+        "zh-Hant": "鼓手只剩十天的故事。",
+        "ja": "ドラマーに残されたのは、あと十日。",
+        "ko": "드러머에게 남은 시간은 열흘뿐이다.",
+        "en": "A story about a drummer with only ten days left."
+      },
+      "image": {
+        "path": "images/2026-09-13/v53634.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-09-13-v47172",
+      "visualNovelID": "v47172",
+      "accessibilityTitle": {
+        "default": "饿殍：明末千里行",
+        "zh-Hant": "餓殍：明末千里行",
+        "ja": "飢えた子羊",
+        "ko": "The Hungry Lamb: Traveling in the Late Ming Dynasty",
+        "en": "The Hungry Lamb: Traveling in the Late Ming Dynasty"
+      },
+      "eyebrow": {
+        "default": "经典作品",
+        "zh-Hant": "經典作品",
+        "ja": "名作",
+        "ko": "명작",
+        "en": "Classic"
+      },
+      "description": {
+        "default": "一段穿越明末大地的旅程。",
+        "zh-Hant": "一段穿越明末大地的旅程。",
+        "ja": "明末の大地を横断する旅。",
+        "ko": "명나라 말기의 대지를 가로지르는 여정.",
+        "en": "A journey across the land of the late Ming Dynasty."
+      },
+      "image": {
+        "path": "images/2026-09-13/v47172.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    }
+  ]
+}
