@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-17",
+  "stories": [
+    {
+      "id": "2026-09-17-v56813",
+      "visualNovelID": "v56813",
+      "accessibilityTitle": {
+        "default": "Sign: 碎冠篇",
+        "zh-Hant": "Sign: 碎冠篇",
+        "ja": "Sign: 碎冠篇",
+        "ko": "Sign: Broken Kether",
+        "en": "Sign: Broken Kether"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "城市的异常正在越长越高。",
+        "zh-Hant": "城市的異常正在越長越高。",
+        "ja": "街の異変は、今も高く伸び続けている。",
+        "ko": "도시의 이변은 점점 더 높이 자라고 있다.",
+        "en": "The city's anomaly keeps growing taller."
+      },
+      "releaseDate": {
+        "default": "2026年",
+        "zh-Hant": "2026年",
+        "ja": "2026年",
+        "ko": "2026년",
+        "en": "2026"
+      },
+      "image": {
+        "path": "images/2026-09-17/v56813.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-09-17-v55112",
+      "visualNovelID": "v55112",
+      "accessibilityTitle": {
+        "default": "グレーテルの本懐",
+        "ja": "グレーテルの本懐",
+        "ko": "Gretel no Honkai",
+        "en": "Gretel no Honkai"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "她沿着童话留下的脚印前进，却发现回家的路没有写在书里。",
+        "zh-Hant": "她沿著童話留下的腳印前進，卻發現回家的路沒有寫在書裡。",
+        "ja": "童話が残した足跡をたどる彼女は、帰り道が本には書かれていないことに気づく。",
+        "ko": "동화가 남긴 발자국을 따라가던 그녀는, 돌아가는 길이 책에는 쓰여 있지 않다는 것을 깨닫는다.",
+        "en": "She follows the footprints left by a fairy tale, only to find the way home was never written in the book."
+      },
+      "releaseDate": {
+        "default": "2026年",
+        "zh-Hant": "2026年",
+        "ja": "2026年",
+        "ko": "2026년",
+        "en": "2026"
+      },
+      "image": {
+        "path": "images/2026-09-17/v55112.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-09-17-v15395",
+      "visualNovelID": "v15395",
+      "accessibilityTitle": {
+        "default": "FLOWERS -Le volume sur été-",
+        "ja": "FLOWERS -Le volume sur été-",
+        "ko": "FLOWERS -Le volume sur été-",
+        "en": "FLOWERS -Le volume sur été-"
+      },
+      "eyebrow": {
+        "default": "经典作品",
+        "zh-Hant": "經典作品",
+        "ja": "名作",
+        "ko": "명작",
+        "en": "Classic"
+      },
+      "description": {
+        "default": "她还没学会告别，新的相遇就已经悄悄改变了校园。",
+        "zh-Hant": "她還沒學會告別，新的相遇就已經悄悄改變了校園。",
+        "ja": "まだ別れ方も知らないうちに、新たな出会いが静かに学園を変えていく。",
+        "ko": "이별하는 법도 배우기 전에, 새로운 만남이 조용히 학교를 바꾸기 시작한다.",
+        "en": "Before she learns how to say goodbye, a new encounter quietly begins to change the academy."
+      },
+      "image": {
+        "path": "images/2026-09-17/v15395.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-09-17-v36177",
+      "visualNovelID": "v36177",
+      "accessibilityTitle": {
+        "default": "ルフランの地下迷宮と魔女ノ旅団",
+        "ja": "ルフランの地下迷宮と魔女ノ旅団",
+        "ko": "Labyrinth of Refrain: Coven of Dusk",
+        "en": "Labyrinth of Refrain: Coven of Dusk"
+      },
+      "eyebrow": {
+        "default": "冷门作品",
+        "zh-Hant": "冷門作品",
+        "ja": "隠れた作品",
+        "ko": "숨은 작품",
+        "en": "Hidden Gem"
+      },
+      "description": {
+        "default": "地底深处没有阳光，只有少女们留下的秘密还在呼吸。",
+        "zh-Hant": "地底深處沒有陽光，只有少女們留下的秘密還在呼吸。",
+        "ja": "地下深くに陽の光はなく、少女たちが残した秘密だけが息づいている。",
+        "ko": "지하 깊은 곳에는 햇빛이 없고, 소녀들이 남긴 비밀만이 아직 숨 쉬고 있다.",
+        "en": "Deep underground, there is no sunlight—only the secrets left by girls still breathing."
+      },
+      "image": {
+        "path": "images/2026-09-17/v36177.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    }
+  ]
+}
