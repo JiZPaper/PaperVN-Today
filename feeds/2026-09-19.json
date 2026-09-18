@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-19",
+  "stories": [
+    {
+      "id": "2026-09-19-v50283",
+      "visualNovelID": "v50283",
+      "accessibilityTitle": {
+        "default": "魔法少女ノ魔女裁判",
+        "zh-Hant": "魔法少女的魔女裁判",
+        "ja": "魔法少女ノ魔女裁判",
+        "ko": "마법소녀의 마녀재판",
+        "en": "Mahou Shoujo no Majo Saiban"
+      },
+      "eyebrow": {
+        "default": "最近发行",
+        "zh-Hant": "最近發行",
+        "ja": "最近発売",
+        "ko": "최근 출시",
+        "en": "New Release"
+      },
+      "description": {
+        "default": "她们之中有一名魔女。",
+        "zh-Hant": "她們之中有一名魔女。",
+        "ja": "彼女たちの中に、魔女がひとりいる。",
+        "ko": "그녀들 중에 마녀가 한 명 있다.",
+        "en": "There is a witch among them."
+      },
+      "image": {
+        "path": "images/2026-09-19/v50283.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-09-19-v19233",
+      "visualNovelID": "v19233",
+      "accessibilityTitle": {
+        "default": "死に逝く君、館に芽吹く憎悪",
+        "zh-Hant": "死去的你，洋館中萌芽的憎惡",
+        "ja": "死に逝く君、館に芽吹く憎悪",
+        "ko": "죽어가는 너, 저택에 싹트는 증오",
+        "en": "Shiniyuku Kimi, Yakata ni Mebuku Zouo"
+      },
+      "eyebrow": {
+        "default": "冷门作品",
+        "zh-Hant": "冷門作品",
+        "ja": "隠れた作品",
+        "ko": "숨은 작품",
+        "en": "Hidden Gem"
+      },
+      "description": {
+        "default": "她每次醒来都回到同一栋洋馆，而死亡总会以一种方式敲门。",
+        "zh-Hant": "她每次醒來都回到同一棟洋館，而死亡總會以一種方式敲門。",
+        "ja": "目を覚ますたび、彼女は同じ洋館へ戻り、死はいつも何らかの形で扉を叩く。",
+        "ko": "눈을 뜰 때마다 그녀는 같은 저택으로 돌아오고, 죽음은 언제나 어떤 모습으로 문을 두드린다.",
+        "en": "Each time she wakes, she returns to the same mansion, and death always comes knocking in one form or another."
+      },
+      "image": {
+        "path": "images/2026-09-19/v19233.jpg",
+        "width": 411,
+        "height": 560
+      },
+      "related": []
+    },
+    {
+      "id": "2026-09-19-v16610",
+      "visualNovelID": "v16610",
+      "accessibilityTitle": {
+        "default": "白衣性愛情依存症",
+        "zh-Hant": "白衣性愛情依存症",
+        "ja": "白衣性愛情依存症",
+        "ko": "백의애정의존증",
+        "en": "Hakuisei Aijou Izonshou"
+      },
+      "eyebrow": {
+        "default": "冷门作品",
+        "zh-Hant": "冷門作品",
+        "ja": "隠れた作品",
+        "ko": "숨은 작품",
+        "en": "Hidden Gem"
+      },
+      "description": {
+        "default": "白衣天使的实习手册里，最难的一页从来没有标准答案。",
+        "zh-Hant": "白衣天使的實習手冊裡，最難的一頁從來沒有標準答案。",
+        "ja": "白衣の天使の実習手帳で、いちばん難しいページには決まった答えがない。",
+        "ko": "백의의 천사 실습 수첩에서 가장 어려운 페이지에는 정답이 없다.",
+        "en": "In a white-robed angel's training manual, the hardest page has no standard answer."
+      },
+      "image": {
+        "path": "images/2026-09-19/v16610.jpg",
+        "width": 318,
+        "height": 450
+      },
+      "related": []
+    },
+    {
+      "id": "2026-09-19-v1027",
+      "visualNovelID": "v1027",
+      "accessibilityTitle": {
+        "default": "漆黑的夏尔诺斯 ～What a beautiful tomorrow～",
+        "zh-Hant": "漆黑的夏爾諾斯 ～What a beautiful tomorrow～",
+        "ja": "漆黒のシャルノス ～What a beautiful tomorrow～",
+        "ko": "칠흑의 샤르노스 ～What a beautiful tomorrow～",
+        "en": "Shikkoku no Sharnoth ~What a beautiful tomorrow~"
+      },
+      "eyebrow": {
+        "default": "经典作品",
+        "zh-Hant": "經典作品",
+        "ja": "名作",
+        "ko": "명작",
+        "en": "Classic"
+      },
+      "description": {
+        "default": "伦敦的雾遮住了天空，也遮住了只在夜里现身的异形。",
+        "zh-Hant": "倫敦的霧遮住了天空，也遮住了只在夜裡現身的異形。",
+        "ja": "ロンドンの霧は空を覆い、夜にだけ姿を現す異形も覆い隠している。",
+        "ko": "런던의 안개는 하늘을 가리고, 밤에만 모습을 드러내는 이형의 존재도 감춘다.",
+        "en": "London's fog hides the sky—and the inhuman things that appear only at night."
+      },
+      "image": {
+        "path": "images/2026-09-19/v1027.jpg",
+        "width": 423,
+        "height": 600
+      },
+      "related": []
+    }
+  ]
+}
