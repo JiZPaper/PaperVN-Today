@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-18",
+  "stories": [
+    {
+      "id": "2026-09-18-v34151",
+      "visualNovelID": "v34151",
+      "accessibilityTitle": {
+        "default": "始于谎言的夏日恋情",
+        "zh-Hant": "始於謊言的夏日戀情",
+        "ja": "嘘から始まる恋の夏",
+        "en": "UsoNatsu ~The Summer Romance Bloomed From A Lie~"
+      },
+      "eyebrow": {
+        "default": "冷门作品",
+        "zh-Hant": "冷門作品",
+        "ja": "隠れた作品",
+        "ko": "숨은 작품",
+        "en": "Hidden Gem"
+      },
+      "description": {
+        "default": "她们交换了无法忘记的人，也交换了一个尚未成真的谎言。",
+        "zh-Hant": "她們交換了無法忘記的人，也交換了一個尚未成真的謊言。",
+        "ja": "忘れられない人を互いに託し、まだ真実になっていない嘘も交わした。",
+        "ko": "두 소녀는 잊을 수 없는 사람을 서로 바꾸고, 아직 현실이 되지 않은 거짓말도 나누었다.",
+        "en": "They traded the people they couldn't forget—and a lie that had yet to come true."
+      },
+      "image": {
+        "path": "images/2026-09-18/v34151.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-09-18-v29371",
+      "visualNovelID": "v29371",
+      "accessibilityTitle": {
+        "default": "海沙风云",
+        "zh-Hant": "海沙風雲",
+        "ja": "彼方へ Far Away",
+        "ko": "파 어웨이",
+        "en": "Far Away"
+      },
+      "eyebrow": {
+        "default": "冷门作品",
+        "zh-Hant": "冷門作品",
+        "ja": "隠れた作品",
+        "ko": "숨은 작품",
+        "en": "Hidden Gem"
+      },
+      "description": {
+        "default": "一个码头工人的选择，足以让整座城市改变航向。",
+        "zh-Hant": "一個碼頭工人的選擇，足以讓整座城市改變航向。",
+        "ja": "港湾労働者のひとつの選択が、街全体の行く先を変える。",
+        "ko": "부두 노동자의 선택 하나가 도시 전체의 항로를 바꾼다.",
+        "en": "One dockworker's choice can change the course of an entire city."
+      },
+      "image": {
+        "path": "images/2026-09-18/v29371.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-09-18-v22703",
+      "visualNovelID": "v22703",
+      "accessibilityTitle": {
+        "default": "神狱塔断罪玛丽2",
+        "zh-Hant": "神獄塔斷罪瑪麗2",
+        "ja": "神獄塔 メアリスケルター2",
+        "ko": "신옥탑 메리스켈터 2",
+        "en": "Mary Skelter 2"
+      },
+      "eyebrow": {
+        "default": "冷门作品",
+        "zh-Hant": "冷門作品",
+        "ja": "隠れた作品",
+        "ko": "숨은 작품",
+        "en": "Hidden Gem"
+      },
+      "description": {
+        "default": "活着的监狱会呼吸，而逃亡者的血正为它指路。",
+        "zh-Hant": "活著的監獄會呼吸，而逃亡者的血正為它指路。",
+        "ja": "生きた監獄は呼吸し、逃亡者の血がその行く先を示す。",
+        "ko": "살아 있는 감옥은 숨 쉬고, 도망자들의 피가 길을 가리킨다.",
+        "en": "The living prison breathes, and the fugitives' blood shows it the way."
+      },
+      "image": {
+        "path": "images/2026-09-18/v22703.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-09-18-v15061",
+      "visualNovelID": "v15061",
+      "accessibilityTitle": {
+        "default": "シェルノサージュ〜失われた星へ捧ぐ詩〜",
+        "ja": "シェルノサージュ〜失われた星へ捧ぐ詩〜",
+        "en": "Ciel Nosurge ~Ushinawareta Hoshi e Sasagu Uta~"
+      },
+      "eyebrow": {
+        "default": "经典作品",
+        "zh-Hant": "經典作品",
+        "ja": "名作",
+        "ko": "명작",
+        "en": "Classic"
+      },
+      "description": {
+        "default": "隔着七个维度，她等你陪她找回失落的记忆。",
+        "zh-Hant": "隔著七個維度，她等你陪她找回失落的記憶。",
+        "ja": "七つの次元の向こうで、彼女は失われた記憶を共に取り戻すあなたを待っている。",
+        "ko": "일곱 차원 너머에서, 그녀는 잃어버린 기억을 함께 되찾아 줄 당신을 기다린다.",
+        "en": "Across seven dimensions, she waits for you to help recover her lost memories."
+      },
+      "image": {
+        "path": "images/2026-09-18/v15061.jpg",
+        "width": 1440,
+        "height": 2160
+      },
+      "related": []
+    }
+  ]
+}
