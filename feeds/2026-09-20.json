@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-20",
+  "stories": [
+    {
+      "id": "2026-09-20-v52146",
+      "visualNovelID": "v52146",
+      "accessibilityTitle": {
+        "default": "我们之间的假婚姻？",
+        "zh-Hant": "我們之間的假婚姻？",
+        "ja": "私たちフェイクマリッジ？",
+        "ko": "Watashi-tachi Fake Marriage?",
+        "en": "Watashi-tachi Fake Marriage?"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "间谍、魔法与一纸假恋情，把两个人推向同一场秘密。",
+        "zh-Hant": "間諜、魔法與一紙假戀情，把兩個人推向同一個秘密。",
+        "ja": "スパイと魔法、そして偽りの恋が、二人を同じ秘密へと導いていく。",
+        "ko": "스파이와 마법, 그리고 가짜 연애가 두 사람을 하나의 비밀로 이끈다.",
+        "en": "Spies, magic, and a fake romance draw two people toward the same secret."
+      },
+      "releaseDate": {
+        "default": "2026年10月",
+        "zh-Hant": "2026年10月",
+        "ja": "2026年10月",
+        "ko": "2026년 10월",
+        "en": "October 2026"
+      },
+      "image": {
+        "path": "images/2026-09-20/v52146.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-09-20-v18152",
+      "visualNovelID": "v18152",
+      "accessibilityTitle": {
+        "default": "FLOWERS -Le volume sur automne-",
+        "zh-Hant": "FLOWERS -Le volume sur automne-",
+        "ja": "FLOWERS -Le volume sur automne-",
+        "ko": "FLOWERS -Le volume sur automne-",
+        "en": "FLOWERS -Le volume sur automne-"
+      },
+      "eyebrow": {
+        "default": "经典作品",
+        "zh-Hant": "經典作品",
+        "ja": "名作",
+        "ko": "명작",
+        "en": "Classic"
+      },
+      "description": {
+        "default": "圣安格莱克姆学院的秋天，总有秘密比落叶更晚凋零。",
+        "zh-Hant": "聖安格萊克姆學院的秋天，總有秘密比落葉更晚凋零。",
+        "ja": "聖アングレカム学園の秋には、落ち葉よりも遅く散る秘密がある。",
+        "ko": "생 앙그레캄 학원의 가을에는 낙엽보다 늦게 지는 비밀이 있다.",
+        "en": "At Saint Angraecum Academy, some secrets outlast the falling leaves."
+      },
+      "image": {
+        "path": "images/2026-09-20/v18152.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-09-20-v60213",
+      "visualNovelID": "v60213",
+      "accessibilityTitle": {
+        "default": "直播少女的匿名账号迷宫",
+        "zh-Hant": "直播少女的匿名帳號迷宮",
+        "ja": "配信少女ノ裏垢迷宮",
+        "ko": "방송 소녀의 비밀 계정 미궁",
+        "en": "Haishin Shoujo no Uraaka Meikyuu"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "她们的秘密账号里，藏着一座必须找到凶手才能走出的迷宫。",
+        "zh-Hant": "她們的秘密帳號裡，藏著一座必須找到兇手才能走出的迷宮。",
+        "ja": "彼女たちの裏アカには、犯人を見つけなければ出られない迷宮が隠されている。",
+        "ko": "그녀들의 비밀 계정 안에는 범인을 찾아야만 빠져나올 수 있는 미궁이 숨어 있다.",
+        "en": "Their secret accounts hide a labyrinth that can be escaped only by finding the culprit."
+      },
+      "releaseDate": {
+        "default": "2026年",
+        "zh-Hant": "2026年",
+        "ja": "2026年",
+        "ko": "2026년",
+        "en": "2026"
+      },
+      "image": {
+        "path": "images/2026-09-20/v60213.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    },
+    {
+      "id": "2026-09-20-v56813",
+      "visualNovelID": "v56813",
+      "accessibilityTitle": {
+        "default": "Sign：碎冠篇",
+        "zh-Hant": "Sign：碎冠篇",
+        "ja": "Sign: 碎冠篇",
+        "ko": "Sign: 碎冠篇",
+        "en": "Sign: Sui Guan Pian"
+      },
+      "eyebrow": {
+        "default": "即将发行",
+        "zh-Hant": "即將發行",
+        "ja": "発売予定",
+        "ko": "출시 예정",
+        "en": "Coming Soon"
+      },
+      "description": {
+        "default": "一棵巨树在一夜间长进城市，而魔女把秘密交给了她。",
+        "zh-Hant": "一棵巨樹在一夜間生長進城市，而魔女把秘密交給了她。",
+        "ja": "一夜にして巨大な木が街にそびえ立ち、魔女は彼女に秘密を託す。",
+        "ko": "하룻밤 사이 거대한 나무가 도시에 솟아났고, 마녀는 그녀에게 비밀을 맡긴다.",
+        "en": "A giant tree rises in the city overnight, and a witch entrusts her with a secret."
+      },
+      "releaseDate": {
+        "default": "2026年秋季",
+        "zh-Hant": "2026年秋季",
+        "ja": "2026年秋",
+        "ko": "2026년 가을",
+        "en": "Fall 2026"
+      },
+      "image": {
+        "path": "images/2026-09-20/v56813.jpg",
+        "width": 600,
+        "height": 900
+      },
+      "related": []
+    }
+  ]
+}
