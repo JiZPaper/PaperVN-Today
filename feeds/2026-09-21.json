@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-21",
+  "stories": [
+    {
+      "id": "2026-09-21-v26812",
+      "visualNovelID": "v26812",
+      "accessibilityTitle": {
+        "default": "四目神",
+        "zh-Hant": "四目神",
+        "ja": "四ツ目神",
+        "ko": "요츠메가미",
+        "en": "Yotsume God"
+      },
+      "eyebrow": {
+        "default": "经典作品",
+        "zh-Hant": "經典作品",
+        "ja": "名作",
+        "ko": "명작",
+        "en": "Classic"
+      },
+      "description": {
+        "default": "神社不让她离开，或许是因为过去还没有说完。",
+        "zh-Hant": "神社不讓她離開，或許是因為過去還沒有說完。",
+        "ja": "神社が彼女を帰さないのは、過去がまだ語り終えていないからかもしれない。",
+        "ko": "신사가 그녀를 놓아주지 않는 건, 과거가 아직 이야기를 끝내지 못했기 때문인지도 모른다.",
+        "en": "Perhaps the shrine will not let her leave because the past has not finished speaking."
+      },
+      "image": {
+        "path": "images/2026-09-21/v26812.jpg",
+        "width": 256,
+        "height": 384
+      },
+      "related": []
+    },
+    {
+      "id": "2026-09-21-v28196",
+      "visualNovelID": "v28196",
+      "accessibilityTitle": {
+        "default": "夜、灯す",
+        "zh-Hant": "夜、灯す",
+        "ja": "夜、灯す",
+        "ko": "요루, 토모스",
+        "en": "Yoru, Tomosu"
+      },
+      "eyebrow": {
+        "default": "冷门作品",
+        "zh-Hant": "冷門作品",
+        "ja": "隠れた作品",
+        "ko": "숨은 작품",
+        "en": "Hidden Gem"
+      },
+      "description": {
+        "default": "夜里亮起的灯，不一定是在为活人引路。",
+        "zh-Hant": "夜裡亮起的燈，不一定是在為活人引路。",
+        "ja": "夜に灯る明かりが、生者のための道標とは限らない。",
+        "ko": "밤에 켜진 불빛이 반드시 산 자를 위한 길잡이인 것은 아니다.",
+        "en": "A light lit at night is not necessarily meant to guide the living."
+      },
+      "image": {
+        "path": "images/2026-09-21/v28196.jpg",
+        "width": 784,
+        "height": 1280
+      },
+      "related": []
+    }
+  ]
+}
