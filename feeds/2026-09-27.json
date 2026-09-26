@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-27",
+  "stories": [
+    {
+      "id": "2026-09-27-v54201",
+      "visualNovelID": "v54201",
+      "accessibilityTitle": {
+        "default": "流光易逝的夏末",
+        "zh-Hant": "流光易逝的夏末",
+        "ja": "流光易逝的夏末",
+        "ko": "Fleeting Summer's End",
+        "en": "Fleeting Summer's End"
+      },
+      "eyebrow": {
+        "default": "冷门作品",
+        "zh-Hant": "冷門作品",
+        "ja": "隠れた作品",
+        "ko": "숨은 작품",
+        "en": "Hidden Gem"
+      },
+      "description": {
+        "default": "城里来的雨，落在潮汕就有了名字。",
+        "zh-Hant": "城裡來的雨，落在潮汕就有了名字。",
+        "ja": "街から来た雨は、潮汕で名前を得た。",
+        "ko": "도시에서 온 비는 차오산에서 이름을 얻었다.",
+        "en": "The rain from the city found a name in Chaoshan."
+      },
+      "related": []
+    },
+    {
+      "id": "2026-09-27-v41815",
+      "visualNovelID": "v41815",
+      "accessibilityTitle": {
+        "default": "少女☆歌剧 Revue Starlight 舞台奏像剧 遥远的黄金国",
+        "zh-Hant": "少女☆歌劇 Revue Starlight 舞台奏像劇 遙遠的黃金國",
+        "ja": "少女☆歌劇 レヴュースタァライト　舞台奏像劇　遥かなるエルドラド",
+        "ko": "소녀☆가극 Revue Starlight 머나먼 황금국",
+        "en": "Revue Starlight El Dorado"
+      },
+      "eyebrow": {
+        "default": "冷门作品",
+        "zh-Hant": "冷門作品",
+        "ja": "隠れた作品",
+        "ko": "숨은 작품",
+        "en": "Hidden Gem"
+      },
+      "description": {
+        "default": "星光落进大海，少女们开始排演自己的远方。",
+        "zh-Hant": "星光落進大海，少女們開始排演自己的遠方。",
+        "ja": "星の光が海に落ち、少女たちは自分たちの遠い場所を演じ始める。",
+        "ko": "별빛이 바다로 떨어지고, 소녀들은 자신들의 먼 곳을 연기하기 시작한다.",
+        "en": "Starlight falls into the sea, and the girls begin rehearsing their own distant horizon."
+      },
+      "related": []
+    }
+  ]
+}
